@@ -1,2 +1,3 @@
-# 431-2024
-PQHS / CRSP / MPHP 431 repository for Fall 2024 with Dr. Love at CWRU
+# 431-2023
+
+Main Page for 431 (section 100) in Fall 2023 with Dr. Love

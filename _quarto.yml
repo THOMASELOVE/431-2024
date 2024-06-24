@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "431-2024"
+  page-footer: "Fall 2024: PQHS/CRSP/MPHP 431 at CWRU with Professor Love"
+  navbar:
+    background: "#702963"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Calendar"
+        href: calendar.qmd
+      - text: "Syllabus"
+        href: ph.qmd
+      - text: "Course Notes"
+        href: ph.qmd
+      - text: "Assignments"
+        href: ph.qmd
+      - text: "Software"
+        href: ph.qmd
+      - text: "Campuswire"
+        href: ph.qmd
+    right:
+      - text: "Key Links"
+        menu: 
+        - text: "431-Data page"
+          href: ph.qmd
+        - text: "431 R packages"
+          href: ph.qmd
+        - text: "Minute Papers (Github)"
+          href: ph.qmd
+        - text: "Labs (Github)"
+          href: ph.qmd
+        - text: "Quizzes (Github)"
+          href: ph.qmd
+        - text: "Project (Github)"
+          href: ph.qmd
+      - text: "Contact Us"
+        href: contact.qmd
+        
+format:
+  html:
+    theme: 
+      light: litera
+      dark: cyborg
+    date-format: iso
+    toc: true
+    code-overflow: wrap
+    link-external-icon: true
+    link-external-newwindow: true
+
+editor: source
+

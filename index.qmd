@@ -1,0 +1,42 @@
+---
+title: "431 Course Main Page: Fall 2024"
+author: "Thomas E. Love"
+date: last-modified
+---
+
+# Welcome! 
+
+431 is the first part of a two-semester sequence (with 432) in applied statistics and data science taught by Professor Thomas Love in the [Department of Population and Quantitative Health Sciences](https://case.edu/medicine/pqhs/) at [Case Western Reserve University](https://case.edu/).
+
+## Getting Started
+
+Your first few steps in this course are to:
+
+1.  Register and enroll via the [CWRU Student Information System (SIS)](https://sis.case.edu/). 
+    - Students will be permitted to register for the course starting in **mid-July**.
+2.  Obtain a copy of David Spiegelhalter's [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541675703), originally published in 2020 and available at all major book retailers for less than \$20.
+
+More to come.
+
+## Everything will be linked here by 2024-08-13
+
+Materials that will appear here include:
+
+-   the course syllabus
+-   the course [calendar](calendar.qmd), which will provide the final word on all deadlines, and will also link to all materials used in each class session
+-   Dr. Love's course notes, which are a major source of course examples
+-   detailed information on all course assignments, with all deadlines found in the [calendar](calendar.qmd)
+-   information on software, including installation instructions for R, RStudio, and the key R packages and data sets we'll use
+-   and information on how to [contact us](contact.qmd).
+
+
+
+## Class Starts 2024-08-27 at 1 PM
+
+Class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-E323 at CWRU's School of Medicine, starting on 2024-08-27.
+
+## Questions?
+
+If you have any questions before class begins, contact Professor Love at `thomas dot love at case dot edu`.
+
+Thank you.

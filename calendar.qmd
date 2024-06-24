@@ -1,0 +1,60 @@
+# Course Calendar
+
+Here are the scheduled class sessions for 431 in Fall 2024. All class sessions will be held from 1:00 to 2:15 PM in Room E321-323 on the third floor of the Robbins building at CWRU's School of Medicine.
+
+## August
+
+Class | Day | Date | Additional Information
+-----: | ---: | ---------- | ----------------------------
+1 | TU | 2024-08-27 | 
+2 | TH | 2024-08-29 | 
+
+## September
+
+Class | Day | Date | Additional Information
+-----: | ---: | ---------- | ----------------------------
+3 | TU | 2024-09-03 | 
+4 | TH | 2024-09-05 | 
+5 | TU | 2024-09-10 | 
+6 | TH | 2024-09-12 | 
+7 | TU | 2024-09-17 | 
+8 | TH | 2024-09-19 | 
+9 | TU | 2024-09-24 | 
+10 | TH | 2024-09-26 | 
+
+## October
+
+Class | Day | Date | Additional Information
+-----: | ---: | ---------- | ----------------------------
+11 | TU | 2024-10-01 | 
+12 | TH | 2024-10-03 | 
+13 | TU | 2024-10-08 | 
+14 | TH | 2024-10-10 | 
+15 | TU | 2024-10-15 | 
+16 | TH | 2024-10-17 | 
+-- | TU | 2024-10-22 | CWRU Fall Break - no 431.
+17 | TH | 2024-10-24 | 
+18 | TU | 2024-10-29 | 
+19 | TH | 2024-10-31 | 
+
+## November
+
+Class | Day | Date | Additional Information
+-----: | ---: | ---------- | ----------------------------
+-- | TU | 2024-11-05 | Election Day - no 431.
+20 | TH | 2024-11-07 | 
+21 | TU | 2024-11-12 | 
+22 | TH | 2024-11-14 | 
+23 | TU | 2024-11-19 | 
+24 | TH | 2024-11-21 | 
+-- | TU | 2024-11-26 | Thanksgiving Week - no 431.
+-- | TH | 2024-11-28 | CWRU Thanksgiving Break - no 431.
+
+## December
+
+Class | Day | Date | Additional Information
+-----: | ---: | ---------- | ----------------------------
+25 | TU | 2024-12-03 | 
+26 | TH | 2024-12-05 |
+
+
