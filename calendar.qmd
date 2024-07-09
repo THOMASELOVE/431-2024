@@ -55,7 +55,7 @@ Class | Day | Date | Additional Information
 *deadline* | **W** | 2024-11-13 | Project B Plan due at noon <br> Minute Paper 11-13 due at noon
 22 | TH | 2024-11-14 | Multiple Linear Regression, 3 (TEL 20-22)
 23 | TU | 2024-11-19 | Multiple Linear Regression, 4 (TEL 20-22)
-*deadline* | **W** | 2024-11-20 | Lab 6 due at noon <br> Minute Paper 11-20
+*deadline* | **W** | 2024-11-20 | Lab 5 due at noon <br> Minute Paper 11-20
 24 | TH | 2024-11-21 | Multiple Linear Regression, 5 (TEL 20-22) <br> Quiz 2 out to students at 5 PM
 -- | TU | 2024-11-26 | Thanksgiving Week - no 431.
 -- | TH | 2024-11-28 | CWRU Thanksgiving Break - no 431.
@@ -65,7 +65,7 @@ Class | Day | Date | Additional Information
 Class | Day | Date | Additional Information
 -----: | ---: | ---------- | ----------------------------
 25 | TU | 2024-12-03 | Summary Case Study (also see TEL 23)
-*deadline* | **W** | 2024-12-04 | Quiz 2 due at noon <br> Minute Paper 12-04 due at noon. <br> Lab 7 due at noon
+*deadline* | **W** | 2024-12-04 | Quiz 2 due at noon <br> Minute Paper 12-04 due at noon. <br> Lab 6 due at noon
 26 | TH | 2024-12-05 | What happened here? What's in 432?
 *deadline* | **W** | 2024-12-11 | Project B Portfolio submitted by noon.
 
