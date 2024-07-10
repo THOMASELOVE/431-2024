@@ -14,7 +14,7 @@ Some materials will be posted sooner, but don't take those drafts seriously.
 
 ## Labs
 
-The general page for all [431 Labs is here](https://github.com/THOMASELOVE/431-labs-2024/blob/main/README.md). We'll post links to each specific assignments' page below as they become available.
+The general page for all [431 Labs is here](https://github.com/THOMASELOVE/431-labs-2024/blob/main/README.md). We'll post links to each specific lab page below as they become available.
 
 - Lab 0 (Welcome to 431 Survey) Google Form (must log into Google via CWRU)
 - Lab 1 page on Github
@@ -29,6 +29,8 @@ The general page for all [431 Labs is here](https://github.com/THOMASELOVE/431-l
 - [Minute Papers page](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) on Github
 
 ## Quizzes
+
+The general page for both [431 Quizzes is here](https://github.com/THOMASELOVE/431-quizzes-2024/blob/main/README.md). We'll post links to each specific quiz page below as they become available.
 
 - Quiz 1 page on Github
 - Quiz 2 page on Github

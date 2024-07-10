@@ -8,6 +8,16 @@ date: last-modified
 
 431 is the first part of a two-semester sequence (with 432) in applied statistics and data science taught by Professor Thomas Love in the [Department of Population and Quantitative Health Sciences](https://case.edu/medicine/pqhs/) at [Case Western Reserve University](https://case.edu/).
 
+::: {.callout-important}
+
+## This page is under construction. Trust nothing at this stage.
+
+We aim to post most class materials for 431 in Fall 2024 before 2024-08-13.
+
+Some materials will be posted sooner, but don't take those drafts seriously.
+
+:::
+
 ## Getting Started
 
 Your first few steps in this course are to:

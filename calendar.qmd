@@ -1,5 +1,15 @@
 # Course Calendar
 
+::: {.callout-important}
+
+## This page is under construction. Trust nothing at this stage.
+
+We aim to post most class materials for 431 in Fall 2024 before 2024-08-13.
+
+Some materials will be posted sooner, but don't take those drafts seriously.
+
+:::
+
 Here are the scheduled class sessions for 431 in Fall 2024. All class sessions will be held from 1:00 to 2:15 PM in Room E321-323 on the third floor of the Robbins building at CWRU's School of Medicine.
 
 ## August
