@@ -1,0 +1,39 @@
+# Assignments for 431 in Fall 2024
+
+This page links to all instructions and other information about course assignments. All deadlines are found on the [Course Calendar](calendar.qmd).
+
+::: {.callout-important}
+
+## This page is under construction. Trust nothing at this stage.
+
+We aim to post most class materials for 431 in Fall 2024 before 2024-08-13.
+
+Some materials will be posted sooner, but don't take those drafts seriously.
+
+:::
+
+## Labs
+
+The general page for all [431 Labs is here](https://github.com/THOMASELOVE/431-labs-2024/blob/main/README.md). We'll post links to each specific assignments' page below as they become available.
+
+- Lab 0 (Welcome to 431 Survey) Google Form (must log into Google via CWRU)
+- Lab 1 page on Github
+- Lab 2 page on Github
+- Lab 3 page on Github
+- Lab 4 page on Github
+- Lab 5 page on Github
+- Lab 6 (Developing a Personal Website) page on Github
+
+## Minute Papers
+
+- [Minute Papers page](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) on Github
+
+## Quizzes
+
+- Quiz 1 page on Github
+- Quiz 2 page on Github
+
+## Projects
+
+- Project A page on Github
+- Project B page on Github

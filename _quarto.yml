@@ -17,7 +17,7 @@ website:
       - text: "Course Notes"
         href: ph.qmd
       - text: "Assignments"
-        href: ph.qmd
+        href: assignments.qmd
       - text: "Software"
         href: ph.qmd
       - text: "Campuswire"
