@@ -10,7 +10,12 @@ Some materials will be posted sooner, but don't take those drafts seriously.
 
 :::
 
-Here are the scheduled class sessions for 431 in Fall 2024. All class sessions will be held from 1:00 to 2:15 PM in Room E321-323 on the third floor of the Robbins building at CWRU's School of Medicine.
+All class sessions will be held from 1:00 to 2:15 PM in Room E321-323 on the third floor of the Robbins building at CWRU's School of Medicine.
+
+Readings come from:
+
+- **Spiegelhalter**: David Spiegelhalter's [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541675703) originally published in 2020 and available at all major book retailers.
+- **R4DS**: R for Data Science (2nd edition), found at <https://r4ds.hadley.nz/>.
 
 ## August
 
@@ -19,6 +24,7 @@ Class | Day | Date | Additional Information
 1 | TU | 2024-08-27 | Getting Started (TEL 1-2)
 *deadline* | **W** | 2024-08-28 | [Lab 0: Welcome to 431 Survey](https://bit.ly/431-2024-welcome) due at noon
 2 | TH | 2024-08-29 | Data Visualization and Summary (TEL 2-3)
+*reading* | -- | by Class 3 | Spiegelhalter: Introduction and Chapter 1 <br /> R4DS: Introduction and as much of "Whole game" as possible
 
 ## September
 
@@ -27,12 +33,15 @@ Class | Day | Date | Additional Information
 3 | TU | 2024-09-03 | Data Wrangling (TEL 4)
 *deadline* | **W** | 2024-09-04 | [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 09-04 due at noon
 4 | TH | 2024-09-05 | Comparing Paired Samples (TEL 5)
+*reading* | -- | by Class 5 | Spiegelhalter: Chapters 2 and 3 <br /> R4DS:  remainder of "Whole game" (Sections 1-8) 
 5 | TU | 2024-09-10 | Comparing Independent Samples (TEL 6)
-*deadline* | **W** | 2024-09-11 | Lab 1 due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 09-11 due at noon
+*deadline* | **W** | 2024-09-11 | [Lab 1](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab1) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 09-11 due at noon
 6 | TH | 2024-09-12 | Transformation and Weighting (TEL 7-8)
+*reading* | -- | by Class 7 | Spiegelhalter: Chapter 5 <br /> R4DS:  "Visualize" sections, especially sections 10 and 11
 7 | TU | 2024-09-17 | Comparing Multiple Groups (TEL 9)
-*deadline* | **W** | 2024-09-18 | Lab 2 due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 09-18 due at noon
+*deadline* | **W** | 2024-09-18 | [Lab 2](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab2) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 09-18 due at noon
 8 | TH | 2024-09-19 | Extensions of One-Factor ANOVA (TEL 10)
+*reading* | -- | by Class 9 | Spiegelhalter: Chapter 7 <br /> R4DS: Sections 16 (Factors) and 28 (Quarto)
 9 | TU | 2024-09-24 | Association and Correlation (TEL 11-12)
 *deadline* | **W** | 2024-09-25 | Project A Plan due at noon 
 10 | TH | 2024-09-26 | Catch Up
@@ -41,17 +50,22 @@ Class | Day | Date | Additional Information
 
 Class | Day | Date | Additional Information
 -----: | ---: | ---------- | ----------------------------
+*reading* | -- | by Class 11 | Spiegelhalter: Chapter 8 
 11 | TU | 2024-10-01 | Two-by-Two Tables (TEL 13)
-*deadline* | **W** | 2024-10-02 | Lab 3 due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 10-02 due at noon
+*deadline* | **W** | 2024-10-02 | [Lab 3](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab3) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 10-02 due at noon
 12 | TH | 2024-10-03 | Larger Two-Way Cross-Classifications (TEL 14)
+*reading* | -- | by Class 13 | Spiegelhalter: Chapter 9
 13 | TU | 2024-10-08 | What's wrong with Statistical Significance, 1 (TEL 15)
-*deadline* | **W** | 2024-10-09 | Lab 4 due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 10-09 due at noon
+*deadline* | **W** | 2024-10-09 | [Lab 4](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab4) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 10-09 due at noon
 14 | TH | 2024-10-10 | What's wrong with Statistical Significance, 2 (TEL 15) <br> Quiz 1 out to students at 5 PM
+*reading* | -- | by Class 15 | Spiegelhalter: Chapter 10
 15 | TU | 2024-10-15 | Adjusting for a covariate (TEL 16)
 *deadline* | **W** | 2024-10-16 | Quiz 1 due at noon 
 16 | TH | 2024-10-17 | Covariate Adjustment in Simpler Models (TEL 17)
 -- | TU | 2024-10-22 | CWRU Fall Break - no 431.
+*reading* | -- | by Class 17 | Spiegelhalter: Chapter 11
 17 | TH | 2024-10-24 | AMA / Project A Help Session
+*reading* | -- | by Class 18 | Spiegelhalter: Chapter 12
 18 | TU | 2024-10-29 | Regression Using Two Quantities (TEL 18)
 *deadline* | **W** | 2024-10-30 | Project A Portfolio due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 10-30 due at noon
 19 | TH | 2024-10-31 | Two-Factor Analysis of Variance (TEL 19)
@@ -61,13 +75,15 @@ Class | Day | Date | Additional Information
 Class | Day | Date | Additional Information
 -----: | ---: | ---------- | ----------------------------
 -- | TU | 2024-11-05 | Election Day - no 431.
-*deadline* | **W** | 2024-11-06 | Lab 5 due at noon
+*deadline* | **W** | 2024-11-06 | [Lab 5](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab5) due at noon
 20 | TH | 2024-11-07 | Multiple Linear Regression, 1 (TEL 20)
+*reading* | -- | by Class 21 | Spiegelhalter: Chapter 13
 21 | TU | 2024-11-12 | Multiple Linear Regression, 2 (TEL 20-21)
 *deadline* | **W** | 2024-11-13 | Project B Plan due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 11-13 due at noon
 22 | TH | 2024-11-14 | Multiple Linear Regression, 3 (TEL 20-22)
+*reading* | -- | by Class 23 | Spiegelhalter: Chapter 4
 23 | TU | 2024-11-19 | Multiple Linear Regression, 4 (TEL 20-22)
-*deadline* | **W** | 2024-11-20 | Lab 6 due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 11-20 due at noon
+*deadline* | **W** | 2024-11-20 | [Lab 6](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab6) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 11-20 due at noon
 24 | TH | 2024-11-21 | Multiple Linear Regression, 5 (TEL 20-22) <br> Quiz 2 out to students at 5 PM
 -- | TU | 2024-11-26 | Thanksgiving Week - no 431.
 -- | TH | 2024-11-28 | CWRU Thanksgiving Break - no 431.
@@ -76,6 +92,7 @@ Class | Day | Date | Additional Information
 
 Class | Day | Date | Additional Information
 -----: | ---: | ---------- | ----------------------------
+*reading* | -- | by Class 25 | Spiegelhalter: rest of book (chapters 6 and 14)
 25 | TU | 2024-12-03 | Summary Case Study (also see TEL 23)
 *deadline* | **W** | 2024-12-04 | Quiz 2 due at noon <br> Lab 7 due at noon
 26 | TH | 2024-12-05 | What happened here? What's in 432?
