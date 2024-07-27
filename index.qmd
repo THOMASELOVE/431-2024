@@ -35,8 +35,8 @@ Materials that will appear here include:
 -   the course syllabus
 -   the course [calendar](calendar.qmd), which will provide the final word on all deadlines, and will also link to all materials used in each class session
 -   Dr. Love's course notes, which are a major source of course examples
--   detailed information on all course assignments, with all deadlines found in the [calendar](calendar.qmd)
--   information on software, including installation instructions for R, RStudio, and the key R packages and data sets we'll use
+-   detailed information on all course [assignments](assignments.qmd), with all deadlines found in the [calendar](calendar.qmd)
+-   information on [software](software.qmd), including installation instructions for R, RStudio, and the key R packages and data sets we'll use
 -   and information on how to [contact us](contact.qmd).
 
 
