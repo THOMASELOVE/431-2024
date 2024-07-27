@@ -26,17 +26,19 @@ website:
       - text: "Key Links"
         menu: 
         - text: "431-Data page"
-          href: ph.qmd
+          href: https://github.com/THOMASELOVE/431-data
         - text: "431 R packages"
-          href: ph.qmd
+          href: https://github.com/THOMASELOVE/431-packages
         - text: "Minute Papers (Github)"
-          href: ph.qmd
+          href: https://github.com/THOMASELOVE/431-minute-2024
         - text: "Labs (Github)"
-          href: ph.qmd
+          href: https://github.com/THOMASELOVE/431-labs-2024
         - text: "Quizzes (Github)"
+          href: https://github.com/THOMASELOVE/431-quizzes-2024
+        - text: "Project A (Github)"
           href: ph.qmd
-        - text: "Project (Github)"
-          href: ph.qmd
+        - text: "Project B (Github)"
+          href: ph.qmd  
       - text: "Contact Us"
         href: contact.qmd
         
