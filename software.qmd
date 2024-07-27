@@ -1,0 +1,58 @@
+# Software for 431
+
+The course makes heavy use of the R statistical programming language, and several related tools, most especially the RStudio development environment. Every bit of this software is free to use, and open-source.
+
+You will need access to a computer to do your work for this class, not just an iPad or other tablet, but an actual computer. You do not need a state of the art machine, nor should you need any special hardware to run things for this course.
+
+::: {.callout-important}
+
+## This page is under construction. Trust nothing at this stage.
+
+We aim to post most class materials for 431 in Fall 2024 before 2024-08-13.
+
+Some materials will be posted sooner, but don't take those drafts seriously.
+
+:::
+
+## Installing R and R Studio
+
+The steps you need to complete are:
+
+1. Download and install the latest version of R (version 4.4.1 or later) from <https://cran.case.edu/> or, if you prefer, from <https://cloud.r-project.org/> which automatically chooses a fast, nearby mirror for you.
+
+    - If you have a pre-existing installation of R and/or RStudio, we highly recommend that you re-install both to get current.
+
+2. Download and install RStudio Desktop (Open Source Edition - the free version 2024.04.2+764 or later) by visiting https://posit.co/download/rstudio-desktop/.
+
+## Installing R Packages and Data/Code for 431
+
+After you’ve completed steps 1 and 2 above, move on to these tasks:
+
+3. Install some R packages - an R “package” is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work.
+
+    - Visit <https://github.com/THOMASELOVE/431-packages> for details and the list of packages we’ll be using in 431.
+
+4. Download data and code (functions) we’ve developed specifically for 431 at <https://github.com/THOMASELOVE/431-data>. Follow the instructions you’ll find there.
+
+## Need Installation Help?
+
+If you need more help, you might look at [this terrific resource](https://stat545.com/install.html) for Installing R and RStudio from Jenny Bryan and the STAT 545 project. These are the people responsible for the great [Happy Git with R](https://happygitwithr.com/) project, which will also be worth your time when we are using Git and GitHub.
+
+- If you’re having trouble with installation before our first class, don’t worry too much. The TAs and Professor Love will be available to help once the class gets going.
+- Once the class starts, if you’re having installation problems or problems getting started in R, please consider visiting TA office hours or perhaps asking a question on Campuswire. We want to hear from you!
+
+## Updating Your R Packages
+
+Every once in a while, it’s a good idea to update your R packages. To do so,
+
+1. Go to the Packages tab on the right side of your RStudio screen, and click on Update.
+
+2. This will bring up a dialog box. I usually click Select All, then click Install Updates.
+
+    - A popup box may appear, asking "Do you want to install from sources the packages which need compilation?" to which I usually answer No. A Yes response leads to a slower installation, but can solve problems if you still have them after updating.
+    - This may take a few minutes. As long as you’re seeing activity in the Console window, things are progressing.
+    - Eventually, you’ll get a message that "The downloaded source packages are in ..." with a directory name. That’s the sign that the updating is done.
+    - Updating packages is something you’ll do occasionally throughout the semester, mostly when a problem happens.
+
+3. Finally, choose File ... Quit Session from the top menu, and accept or deny (I usually deny) RStudio’s request to save your workspace. Then close RStudio, and re-open it if you want to do some work.
+

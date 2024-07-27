@@ -19,7 +19,7 @@ website:
       - text: "Assignments"
         href: assignments.qmd
       - text: "Software"
-        href: ph.qmd
+        href: software.qmd
       - text: "Campuswire"
         href: ph.qmd
     right:
