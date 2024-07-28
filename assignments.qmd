@@ -6,7 +6,7 @@ This page links to all instructions and other information about course assignmen
 
 ## This page is under construction. Trust nothing at this stage.
 
-We aim to post most class materials for 431 in Fall 2024 before 2024-08-13.
+We aim to post almost all class materials for 431 in Fall 2024 by 2024-08-20.
 
 Some materials will be posted sooner, but don't take those drafts seriously.
 
@@ -18,13 +18,13 @@ The general page for all [431 Labs is here](https://github.com/THOMASELOVE/431-l
 
 - [Lab 0: Welcome to 431 Survey](https://bit.ly/431-2024-welcome)
     - Note: You must log into Google via CWRU in order to access the Survey.
-- Lab 1 page on Github
-- Lab 2 page on Github
-- Lab 3 page on Github
-- Lab 4 page on Github
-- Lab 5 page on Github
-- Lab 6 page on Github
-- Lab 7(Developing a Personal Website) page on Github
+- [Lab 1 page](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab1) on Github
+- [Lab 2 page](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab2) on Github
+- [Lab 3 page](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab3) on Github
+- [Lab 4 page](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab4) on Github
+- [Lab 5 page](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab5) on Github
+- [Lab 6 page](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab6) on Github
+- [Lab 7](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7) (Developing a Personal Website) on Github
 
 ## Minute Papers
 

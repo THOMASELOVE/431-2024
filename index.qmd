@@ -12,7 +12,7 @@ date: last-modified
 
 ## This page is under construction. Trust nothing at this stage.
 
-We aim to post most class materials for 431 in Fall 2024 before 2024-08-13.
+We aim to post almost all class materials for 431 in Fall 2024 by 2024-08-20.
 
 Some materials will be posted sooner, but don't take those drafts seriously.
 
@@ -28,7 +28,7 @@ Your first few steps in this course are to:
 
 More to come.
 
-## Everything will be linked here by 2024-08-13
+## Everything will be linked here by 2024-08-20
 
 Materials that will appear here include:
 
