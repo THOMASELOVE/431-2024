@@ -39,5 +39,5 @@ The general page for both [431 Quizzes is here](https://github.com/THOMASELOVE/4
 
 ## Projects
 
-- Project A page on Github
-- Project B page on Github
+- The [Project A page](https://thomaselove.github.io/431-projectA-2024/) with all instructions and materials related to Project A is now available.
+- The Project B page will appear later this year.

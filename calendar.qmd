@@ -24,7 +24,7 @@ Class | Day | Date | Additional Information
 1 | TU | 2024-08-27 | Getting Started (TEL 1-2)
 *deadline* | **W** | 2024-08-28 | [Lab 0: Welcome to 431 Survey](https://bit.ly/431-2024-welcome) due at noon
 2 | TH | 2024-08-29 | Data Visualization and Summary (TEL 2-3)
-*reading* | -- | by Class 3 | Spiegelhalter: Introduction and Chapter 1 <br /> R4DS: Introduction and as much of "Whole game" as possible
+*reading* | -- | by Class 3 | Spiegelhalter: Introduction and Chapter 1 <br /> R4DS: Introduction and as much of "Whole game" as possible <br /> skim through the [Project A](https://thomaselove.github.io/431-projectA-2024/) instructions
 
 ## September
 
@@ -33,17 +33,17 @@ Class | Day | Date | Additional Information
 3 | TU | 2024-09-03 | Data Wrangling (TEL 4)
 *deadline* | **W** | 2024-09-04 | [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 09-04 due at noon
 4 | TH | 2024-09-05 | Comparing Paired Samples (TEL 5)
-*reading* | -- | by Class 5 | Spiegelhalter: Chapters 2 and 3 <br /> R4DS:  remainder of "Whole game" (Sections 1-8) 
+*reading* | -- | by Class 5 | Spiegelhalter: Chapters 2 and 3 <br /> R4DS:  remainder of "Whole game" (Sections 1-8) <br /> get going on [Project A](https://thomaselove.github.io/431-projectA-2024/) Data work
 5 | TU | 2024-09-10 | Comparing Independent Samples (TEL 6)
 *deadline* | **W** | 2024-09-11 | [Lab 1](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab1) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 09-11 due at noon
 6 | TH | 2024-09-12 | Transformation and Weighting (TEL 7-8)
-*reading* | -- | by Class 7 | Spiegelhalter: Chapter 5 <br /> R4DS:  "Visualize" sections, especially sections 10 and 11
+*reading* | -- | by Class 7 | Spiegelhalter: Chapter 5 <br /> R4DS:  "Visualize" sections, especially sections 10 and 11 <br /> finish the [Project A](https://thomaselove.github.io/431-projectA-2024/) Data work and start the Plan. 
 7 | TU | 2024-09-17 | Comparing Multiple Groups (TEL 9)
 *deadline* | **W** | 2024-09-18 | [Lab 2](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab2) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 09-18 due at noon
 8 | TH | 2024-09-19 | Extensions of One-Factor ANOVA (TEL 10)
-*reading* | -- | by Class 9 | Spiegelhalter: Chapter 7 <br /> R4DS: Sections 16 (Factors) and 28 (Quarto)
+*reading* | -- | by Class 9 | Spiegelhalter: Chapter 7 <br /> R4DS: Sections 16 (Factors) and 28 (Quarto) <br /> Complete the [Project A Plan](https://thomaselove.github.io/431-projectA-2024/): due Wednesday!
 9 | TU | 2024-09-24 | Association and Correlation (TEL 11-12)
-*deadline* | **W** | 2024-09-25 | Project A Plan due at noon 
+*deadline* | **W** | 2024-09-25 | [Project A Plan](https://thomaselove.github.io/431-projectA-2024/) due at noon 
 10 | TH | 2024-09-26 | Catch Up
 
 ## October
@@ -54,7 +54,7 @@ Class | Day | Date | Additional Information
 11 | TU | 2024-10-01 | Two-by-Two Tables (TEL 13)
 *deadline* | **W** | 2024-10-02 | [Lab 3](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab3) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 10-02 due at noon
 12 | TH | 2024-10-03 | Larger Two-Way Cross-Classifications (TEL 14)
-*reading* | -- | by Class 13 | Spiegelhalter: Chapter 9
+*reading* | -- | by Class 13 | Spiegelhalter: Chapter 9 <br /> get started on [Project A](https://thomaselove.github.io/431-projectA-2024/) Analyses
 13 | TU | 2024-10-08 | What's wrong with Statistical Significance, 1 (TEL 15)
 *deadline* | **W** | 2024-10-09 | [Lab 4](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab4) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 10-09 due at noon
 14 | TH | 2024-10-10 | What's wrong with Statistical Significance, 2 (TEL 15) <br> Quiz 1 out to students at 5 PM
@@ -63,11 +63,11 @@ Class | Day | Date | Additional Information
 *deadline* | **W** | 2024-10-16 | Quiz 1 due at noon 
 16 | TH | 2024-10-17 | Covariate Adjustment in Simpler Models (TEL 17)
 -- | TU | 2024-10-22 | CWRU Fall Break - no 431.
-*reading* | -- | by Class 17 | Spiegelhalter: Chapter 11
-17 | TH | 2024-10-24 | AMA / Project A Help Session
+*reading* | -- | by Class 17 | Spiegelhalter: Chapter 11 <br /> complete most of the [Project A](https://thomaselove.github.io/431-projectA-2024/) Portfolio report
+17 | TH | 2024-10-24 | Ask Me Anything / [Project A](https://thomaselove.github.io/431-projectA-2024/) Help Session
 *reading* | -- | by Class 18 | Spiegelhalter: Chapter 12
 18 | TU | 2024-10-29 | Regression Using Two Quantities (TEL 18)
-*deadline* | **W** | 2024-10-30 | Project A Portfolio due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 10-30 due at noon
+*deadline* | **W** | 2024-10-30 | [Project A](https://thomaselove.github.io/431-projectA-2024/) Portfolio due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 10-30 due at noon
 19 | TH | 2024-10-31 | Two-Factor Analysis of Variance (TEL 19)
 
 ## November
