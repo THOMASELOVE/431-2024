@@ -36,7 +36,7 @@ website:
         - text: "Quizzes (Github)"
           href: https://github.com/THOMASELOVE/431-quizzes-2024
         - text: "Project A (Github)"
-          href: ph.qmd
+          href: https://thomaselove.github.io/431-projectA-2024/
         - text: "Project B (Github)"
           href: ph.qmd  
       - text: "Contact Us"
