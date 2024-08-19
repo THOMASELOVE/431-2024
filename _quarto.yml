@@ -13,7 +13,7 @@ website:
       - text: "Calendar"
         href: calendar.qmd
       - text: "Syllabus"
-        href: ph.qmd
+        href: https://thomaselove.github.io/431-syllabus-2024/
       - text: "Course Notes"
         href: https://thomaselove.github.io/431-book/
       - text: "Assignments"

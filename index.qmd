@@ -31,7 +31,7 @@ Your first few steps in this course are to:
 
 Materials that will appear here include:
 
--   the course syllabus
+-   the course [syllabus](https://thomaselove.github.io/431-syllabus-2024/)
 -   the course [calendar](calendar.qmd), which is the final word on all deadlines, and also links to all materials used in each class session
 -   Dr. Love's [431 book](https://thomaselove.github.io/431-book/) entitled "Foundations of Applied Statistics and R", which is a major source of course examples
 -   detailed information on all course [assignments](assignments.qmd), with all deadlines found in the [calendar](calendar.qmd)
