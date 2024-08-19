@@ -15,7 +15,7 @@ website:
       - text: "Syllabus"
         href: ph.qmd
       - text: "Course Notes"
-        href: ph.qmd
+        href: https://thomaselove.github.io/431-book/
       - text: "Assignments"
         href: assignments.qmd
       - text: "Software"

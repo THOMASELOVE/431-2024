@@ -4,25 +4,15 @@ The course makes heavy use of the R statistical programming language, and severa
 
 You will need access to a computer to do your work for this class, not just an iPad or other tablet, but an actual computer. You do not need a state of the art machine, nor should you need any special hardware to run things for this course.
 
-::: {.callout-important}
-
-## This page is under construction. Trust nothing at this stage.
-
-We aim to post almost all class materials for 431 in Fall 2024 by 2024-08-20.
-
-Some materials will be posted sooner, but don't take those drafts seriously.
-
-:::
-
 ## Installing R and R Studio
 
 The steps you need to complete are:
 
-1. Download and install the latest version of R (version 4.4.1 or later) from <https://cran.case.edu/> or, if you prefer, from <https://cloud.r-project.org/> which automatically chooses a fast, nearby mirror for you.
+1. Download and install the latest version of R (version **4.4.1** or later) from <https://cran.case.edu/> or, if you prefer, from <https://cloud.r-project.org/> which automatically chooses a fast, nearby mirror for you.
 
     - If you have a pre-existing installation of R and/or RStudio, we highly recommend that you re-install both to get current.
 
-2. Download and install RStudio Desktop (Open Source Edition - the free version 2024.04.2+764 or later) by visiting https://posit.co/download/rstudio-desktop/.
+2. Download and install RStudio Desktop (Open Source Edition - the free version **2024.04.2+764** or later) by visiting https://posit.co/download/rstudio-desktop/.
 
 ## Installing R Packages and Data/Code for 431
 

@@ -4,11 +4,9 @@ This page links to all instructions and other information about course assignmen
 
 ::: {.callout-important}
 
-## This page is under construction. Trust nothing at this stage.
+## This page is mostly complete, but still under construction.
 
-We aim to post almost all class materials for 431 in Fall 2024 by 2024-08-20.
-
-Some materials will be posted sooner, but don't take those drafts seriously.
+We will post almost all class materials for 431 before the class begins on 2024-08-27. Most of what's here shouldn't change, but some things might. Missing things and dead links should be resolved over the next few days. If you have questions, contact Dr. Love at `Thomas dot Love at case dot edu`.
 
 :::
 

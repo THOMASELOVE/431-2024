@@ -10,11 +10,9 @@ date: last-modified
 
 ::: {.callout-important}
 
-## This page is under construction. Trust nothing at this stage.
+## This page is mostly complete, but still under construction.
 
-We aim to post almost all class materials for 431 in Fall 2024 by 2024-08-20.
-
-Some materials will be posted sooner, but don't take those drafts seriously.
+We will post almost all class materials for 431 before the class begins on 2024-08-27. Most of what's here shouldn't change, but some things might. Missing things and dead links should be resolved over the next few days. If you have questions, contact Dr. Love at `Thomas dot Love at case dot edu`.
 
 :::
 
@@ -22,26 +20,25 @@ Some materials will be posted sooner, but don't take those drafts seriously.
 
 Your first few steps in this course are to:
 
-1.  Register and enroll via the [CWRU Student Information System (SIS)](https://sis.case.edu/). 
-    - Students will be permitted to register for the course starting in **mid-July**.
-2.  Obtain a copy of David Spiegelhalter's [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541675703), originally published in 2020 and available at all major book retailers for less than \$20.
+1. Register and enroll via the [CWRU Student Information System (SIS)](https://sis.case.edu/).
+2. Take a look at this website. Of particular importance is the Getting Started section you're reading now, and the [Course Calendar](calendar.qmd), but a lot of other material is available now, and more will appear as we approach the first day of class next Tuesday August 27.
+3. Obtain a copy of David Spiegelhalter's [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541675703), originally published in 2020 and available at all major book retailers for less than \$20.
+4. Visit <https://bit.ly/431-2024-welcome> to complete the Welcome to 431 Survey, which is "Lab 0" for the course, technically due Wednesday August 28 at Noon, but we'd love to see you get this done before we start the class. Note: You must log into Google **via CWRU** in order to access the Survey.
+5. You'll need to get R and RStudio on a computer you can control (including installing regular updates to the software) for the semester. You may want to get started on this process now - and installation details are found on our 431 [Software page](software.qmd). 
+6. I also suggest you get started reading the first few sections (particularly the Introduction and Sections 1-2) of the online book [R for Data Science, 2nd Edition](https://r4ds.hadley.nz/).
 
-More to come.
-
-## Everything will be linked here by 2024-08-20
+## Everything will appear on this website
 
 Materials that will appear here include:
 
 -   the course syllabus
--   the course [calendar](calendar.qmd), which will provide the final word on all deadlines, and will also link to all materials used in each class session
--   Dr. Love's course notes, which are a major source of course examples
+-   the course [calendar](calendar.qmd), which is the final word on all deadlines, and also links to all materials used in each class session
+-   Dr. Love's [431 book](https://thomaselove.github.io/431-book/) entitled "Foundations of Applied Statistics and R", which is a major source of course examples
 -   detailed information on all course [assignments](assignments.qmd), with all deadlines found in the [calendar](calendar.qmd)
 -   information on [software](software.qmd), including installation instructions for R, RStudio, and the key R packages and data sets we'll use
 -   and information on how to [contact us](contact.qmd).
 
-
-
-## Class Starts 2024-08-27 at 1 PM
+## Class Starts Tuesday 2024-08-27 at 1 PM
 
 Class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-E323 at CWRU's School of Medicine, starting on 2024-08-27.
 
