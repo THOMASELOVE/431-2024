@@ -21,7 +21,7 @@ website:
       - text: "Software"
         href: software.qmd
       - text: "Campuswire"
-        href: ph.qmd
+        href: campuswire.qmd
     right:
       - text: "Key Links"
         menu: 

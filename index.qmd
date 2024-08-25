@@ -26,6 +26,7 @@ Your first few steps in this course are to:
 4. Visit <https://bit.ly/431-2024-welcome> to complete the Welcome to 431 Survey, which is "Lab 0" for the course, technically due Wednesday August 28 at Noon, but we'd love to see you get this done before we start the class. Note: You must log into Google **via CWRU** in order to access the Survey.
 5. You'll need to get R and RStudio on a computer you can control (including installing regular updates to the software) for the semester. You may want to get started on this process now - and installation details are found on our 431 [Software page](software.qmd). 
 6. I also suggest you get started reading the first few sections (particularly the Introduction and Sections 1-2) of the online book [R for Data Science, 2nd Edition](https://r4ds.hadley.nz/).
+7. Sign up for the [Campuswire discussion board at this link](campuswire.qmd).
 
 ## Everything will appear on this website
 

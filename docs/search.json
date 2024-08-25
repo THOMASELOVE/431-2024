@@ -39,14 +39,14 @@
     "href": "index.html",
     "title": "431 Course Main Page: Fall 2024",
     "section": "",
-    "text": "431 is the first part of a two-semester sequence (with 432) in applied statistics and data science taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University.\n\n\n\n\n\n\nThis page is mostly complete, but still under construction.\n\n\n\nWe will post almost all class materials for 431 before the class begins on 2024-08-27. Most of what’s here shouldn’t change, but some things might. Missing things and dead links should be resolved over the next few days. If you have questions, contact Dr. Love at Thomas dot Love at case dot edu.\n\n\n\n\nYour first few steps in this course are to:\n\nRegister and enroll via the CWRU Student Information System (SIS).\nTake a look at this website. Of particular importance is the Getting Started section you’re reading now, and the Course Calendar, but a lot of other material is available now, and more will appear as we approach the first day of class next Tuesday August 27.\nObtain a copy of David Spiegelhalter’s The Art of Statistics: How to Learn from Data, originally published in 2020 and available at all major book retailers for less than $20.\nVisit https://bit.ly/431-2024-welcome to complete the Welcome to 431 Survey, which is “Lab 0” for the course, technically due Wednesday August 28 at Noon, but we’d love to see you get this done before we start the class. Note: You must log into Google via CWRU in order to access the Survey.\nYou’ll need to get R and RStudio on a computer you can control (including installing regular updates to the software) for the semester. You may want to get started on this process now - and installation details are found on our 431 Software page.\nI also suggest you get started reading the first few sections (particularly the Introduction and Sections 1-2) of the online book R for Data Science, 2nd Edition.\n\n\n\n\nMaterials that will appear here include:\n\nthe course syllabus\nthe course calendar, which is the final word on all deadlines, and also links to all materials used in each class session\nDr. Love’s 431 book entitled “Foundations of Applied Statistics and R”, which is a major source of course examples\ndetailed information on all course assignments, with all deadlines found in the calendar\ninformation on software, including installation instructions for R, RStudio, and the key R packages and data sets we’ll use\nand information on how to contact us.\n\n\n\n\nClass will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-E323 at CWRU’s School of Medicine, starting on 2024-08-27.\n\n\n\nIf you have any questions before class begins, contact Professor Love at thomas dot love at case dot edu.\nThank you."
+    "text": "431 is the first part of a two-semester sequence (with 432) in applied statistics and data science taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University.\n\n\n\n\n\n\nThis page is mostly complete, but still under construction.\n\n\n\nWe will post almost all class materials for 431 before the class begins on 2024-08-27. Most of what’s here shouldn’t change, but some things might. Missing things and dead links should be resolved over the next few days. If you have questions, contact Dr. Love at Thomas dot Love at case dot edu.\n\n\n\n\nYour first few steps in this course are to:\n\nRegister and enroll via the CWRU Student Information System (SIS).\nTake a look at this website. Of particular importance is the Getting Started section you’re reading now, and the Course Calendar, but a lot of other material is available now, and more will appear as we approach the first day of class next Tuesday August 27.\nObtain a copy of David Spiegelhalter’s The Art of Statistics: How to Learn from Data, originally published in 2020 and available at all major book retailers for less than $20.\nVisit https://bit.ly/431-2024-welcome to complete the Welcome to 431 Survey, which is “Lab 0” for the course, technically due Wednesday August 28 at Noon, but we’d love to see you get this done before we start the class. Note: You must log into Google via CWRU in order to access the Survey.\nYou’ll need to get R and RStudio on a computer you can control (including installing regular updates to the software) for the semester. You may want to get started on this process now - and installation details are found on our 431 Software page.\nI also suggest you get started reading the first few sections (particularly the Introduction and Sections 1-2) of the online book R for Data Science, 2nd Edition.\nSign up for the Campuswire discussion board at this link.\n\n\n\n\nMaterials that will appear here include:\n\nthe course syllabus\nthe course calendar, which is the final word on all deadlines, and also links to all materials used in each class session\nDr. Love’s 431 book entitled “Foundations of Applied Statistics and R”, which is a major source of course examples\ndetailed information on all course assignments, with all deadlines found in the calendar\ninformation on software, including installation instructions for R, RStudio, and the key R packages and data sets we’ll use\nand information on how to contact us.\n\n\n\n\nClass will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-E323 at CWRU’s School of Medicine, starting on 2024-08-27.\n\n\n\nIf you have any questions before class begins, contact Professor Love at thomas dot love at case dot edu.\nThank you."
   },
   {
     "objectID": "index.html#getting-started",
     "href": "index.html#getting-started",
     "title": "431 Course Main Page: Fall 2024",
     "section": "",
-    "text": "Your first few steps in this course are to:\n\nRegister and enroll via the CWRU Student Information System (SIS).\nTake a look at this website. Of particular importance is the Getting Started section you’re reading now, and the Course Calendar, but a lot of other material is available now, and more will appear as we approach the first day of class next Tuesday August 27.\nObtain a copy of David Spiegelhalter’s The Art of Statistics: How to Learn from Data, originally published in 2020 and available at all major book retailers for less than $20.\nVisit https://bit.ly/431-2024-welcome to complete the Welcome to 431 Survey, which is “Lab 0” for the course, technically due Wednesday August 28 at Noon, but we’d love to see you get this done before we start the class. Note: You must log into Google via CWRU in order to access the Survey.\nYou’ll need to get R and RStudio on a computer you can control (including installing regular updates to the software) for the semester. You may want to get started on this process now - and installation details are found on our 431 Software page.\nI also suggest you get started reading the first few sections (particularly the Introduction and Sections 1-2) of the online book R for Data Science, 2nd Edition."
+    "text": "Your first few steps in this course are to:\n\nRegister and enroll via the CWRU Student Information System (SIS).\nTake a look at this website. Of particular importance is the Getting Started section you’re reading now, and the Course Calendar, but a lot of other material is available now, and more will appear as we approach the first day of class next Tuesday August 27.\nObtain a copy of David Spiegelhalter’s The Art of Statistics: How to Learn from Data, originally published in 2020 and available at all major book retailers for less than $20.\nVisit https://bit.ly/431-2024-welcome to complete the Welcome to 431 Survey, which is “Lab 0” for the course, technically due Wednesday August 28 at Noon, but we’d love to see you get this done before we start the class. Note: You must log into Google via CWRU in order to access the Survey.\nYou’ll need to get R and RStudio on a computer you can control (including installing regular updates to the software) for the semester. You may want to get started on this process now - and installation details are found on our 431 Software page.\nI also suggest you get started reading the first few sections (particularly the Introduction and Sections 1-2) of the online book R for Data Science, 2nd Edition.\nSign up for the Campuswire discussion board at this link."
   },
   {
     "objectID": "index.html#everything-will-appear-on-this-website",
@@ -68,6 +68,69 @@
     "title": "431 Course Main Page: Fall 2024",
     "section": "",
     "text": "If you have any questions before class begins, contact Professor Love at thomas dot love at case dot edu.\nThank you."
+  },
+  {
+    "objectID": "campuswire.html",
+    "href": "campuswire.html",
+    "title": "Campuswire",
+    "section": "",
+    "text": "Visit https://campuswire.com/p/G1B70B9D9 to sign up. When you do this, you’ll need a four-digit class join code, which is 7781.\nBe sure to sign in with your full name (rather than a nickname) and an email address that you will check daily.\n\nIdeally, you would use your CWRU email, or at least the same email address you indicated that you preferred on the Welcome to 431 survey."
+  },
+  {
+    "objectID": "campuswire.html#signing-up-for-campuswire",
+    "href": "campuswire.html#signing-up-for-campuswire",
+    "title": "Campuswire",
+    "section": "",
+    "text": "Visit https://campuswire.com/p/G1B70B9D9 to sign up. When you do this, you’ll need a four-digit class join code, which is 7781.\nBe sure to sign in with your full name (rather than a nickname) and an email address that you will check daily.\n\nIdeally, you would use your CWRU email, or at least the same email address you indicated that you preferred on the Welcome to 431 survey."
+  },
+  {
+    "objectID": "campuswire.html#accessing-campuswire-once-youve-signed-up",
+    "href": "campuswire.html#accessing-campuswire-once-youve-signed-up",
+    "title": "Campuswire",
+    "section": "Accessing Campuswire once you’ve signed up",
+    "text": "Accessing Campuswire once you’ve signed up\nOnce you’re signed up, you can get to Campuswire by clicking on Sign In at https://campuswire.com/."
+  },
+  {
+    "objectID": "campuswire.html#how-well-use-campuswire",
+    "href": "campuswire.html#how-well-use-campuswire",
+    "title": "Campuswire",
+    "section": "How we’ll use Campuswire",
+    "text": "How we’ll use Campuswire\nAfter our first class session on August 27, we’ll use Campuswire to facilitate questions and answers. We’ll be conducting as much of our class-related discussion there as possible, instead of via email. It’s open 24 hours a day, 7 days a week.\nIf you’re successfully enrolled in the class, you should be able to sign up immediately, and gain access to Professor Love’s 431 course.\nThe quicker you begin asking questions on Campuswire (rather than via emails), the quicker you’ll benefit from the collective knowledge of your classmates, teaching assistants and Professor Love.\nWe encourage you to ask questions when you’re struggling to understand anything related to the class, and you can even do so anonymously.\nYou’ll also be able to help your colleagues by answering their questions (and you’ll get some class participation credit for doing so.)"
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Assignments for 431 in Fall 2024",
+    "section": "",
+    "text": "This page links to all instructions and other information about course assignments. All deadlines are found on the Course Calendar.\n\n\n\n\n\n\nThis page is mostly complete, but still under construction.\n\n\n\nWe will post almost all class materials for 431 before the class begins on 2024-08-27. Most of what’s here shouldn’t change, but some things might. Missing things and dead links should be resolved over the next few days. If you have questions, contact Dr. Love at Thomas dot Love at case dot edu.\n\n\n\n\nThe general page for all 431 Labs is here. We’ll post links to each specific lab page below as they become available.\n\nLab 0: Welcome to 431 Survey\n\nNote: You must log into Google via CWRU in order to access the Survey.\n\nLab 1 page on Github\nLab 2 page on Github\nLab 3 page on Github\nLab 4 page on Github\nLab 5 page on Github\nLab 6 page on Github\nLab 7 (Developing a Personal Website) on Github\n\n\n\n\n\nMinute Papers page on Github\n\n\n\n\nThe general page for both 431 Quizzes is here. We’ll post links to each specific quiz page below as they become available.\n\nQuiz 1 page on Github\nQuiz 2 page on Github\n\n\n\n\n\nThe Project A page with all instructions and materials related to Project A is now available.\nThe Project B page will appear later this year."
+  },
+  {
+    "objectID": "assignments.html#labs",
+    "href": "assignments.html#labs",
+    "title": "Assignments for 431 in Fall 2024",
+    "section": "",
+    "text": "The general page for all 431 Labs is here. We’ll post links to each specific lab page below as they become available.\n\nLab 0: Welcome to 431 Survey\n\nNote: You must log into Google via CWRU in order to access the Survey.\n\nLab 1 page on Github\nLab 2 page on Github\nLab 3 page on Github\nLab 4 page on Github\nLab 5 page on Github\nLab 6 page on Github\nLab 7 (Developing a Personal Website) on Github"
+  },
+  {
+    "objectID": "assignments.html#minute-papers",
+    "href": "assignments.html#minute-papers",
+    "title": "Assignments for 431 in Fall 2024",
+    "section": "",
+    "text": "Minute Papers page on Github"
+  },
+  {
+    "objectID": "assignments.html#quizzes",
+    "href": "assignments.html#quizzes",
+    "title": "Assignments for 431 in Fall 2024",
+    "section": "",
+    "text": "The general page for both 431 Quizzes is here. We’ll post links to each specific quiz page below as they become available.\n\nQuiz 1 page on Github\nQuiz 2 page on Github"
+  },
+  {
+    "objectID": "assignments.html#projects",
+    "href": "assignments.html#projects",
+    "title": "Assignments for 431 in Fall 2024",
+    "section": "",
+    "text": "The Project A page with all instructions and materials related to Project A is now available.\nThe Project B page will appear later this year."
   },
   {
     "objectID": "calendar.html",
@@ -112,41 +175,6 @@
     "text": "Class\nDay\nDate\nAdditional Information\n\n\n\n\nreading\n–\nby Class 25\nSpiegelhalter: rest of book (chapters 6 and 14)\n\n\n25\nTU\n2024-12-03\nSummary Case Study (also see TEL 23)\n\n\ndeadline\nW\n2024-12-04\nQuiz 2 due at noon  Lab 7 due at noon\n\n\n26\nTH\n2024-12-05\nWhat happened here? What’s in 432?\n\n\ndeadline\nW\n2024-12-11\nProject B Portfolio submitted by noon.  (Optional) Lab Regrade Request Form due at noon.\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nMore details on deadlines related to Project B will be posted before class begins in late August."
   },
   {
-    "objectID": "assignments.html",
-    "href": "assignments.html",
-    "title": "Assignments for 431 in Fall 2024",
-    "section": "",
-    "text": "This page links to all instructions and other information about course assignments. All deadlines are found on the Course Calendar.\n\n\n\n\n\n\nThis page is mostly complete, but still under construction.\n\n\n\nWe will post almost all class materials for 431 before the class begins on 2024-08-27. Most of what’s here shouldn’t change, but some things might. Missing things and dead links should be resolved over the next few days. If you have questions, contact Dr. Love at Thomas dot Love at case dot edu.\n\n\n\n\nThe general page for all 431 Labs is here. We’ll post links to each specific lab page below as they become available.\n\nLab 0: Welcome to 431 Survey\n\nNote: You must log into Google via CWRU in order to access the Survey.\n\nLab 1 page on Github\nLab 2 page on Github\nLab 3 page on Github\nLab 4 page on Github\nLab 5 page on Github\nLab 6 page on Github\nLab 7 (Developing a Personal Website) on Github\n\n\n\n\n\nMinute Papers page on Github\n\n\n\n\nThe general page for both 431 Quizzes is here. We’ll post links to each specific quiz page below as they become available.\n\nQuiz 1 page on Github\nQuiz 2 page on Github\n\n\n\n\n\nThe Project A page with all instructions and materials related to Project A is now available.\nThe Project B page will appear later this year."
-  },
-  {
-    "objectID": "assignments.html#labs",
-    "href": "assignments.html#labs",
-    "title": "Assignments for 431 in Fall 2024",
-    "section": "",
-    "text": "The general page for all 431 Labs is here. We’ll post links to each specific lab page below as they become available.\n\nLab 0: Welcome to 431 Survey\n\nNote: You must log into Google via CWRU in order to access the Survey.\n\nLab 1 page on Github\nLab 2 page on Github\nLab 3 page on Github\nLab 4 page on Github\nLab 5 page on Github\nLab 6 page on Github\nLab 7 (Developing a Personal Website) on Github"
-  },
-  {
-    "objectID": "assignments.html#minute-papers",
-    "href": "assignments.html#minute-papers",
-    "title": "Assignments for 431 in Fall 2024",
-    "section": "",
-    "text": "Minute Papers page on Github"
-  },
-  {
-    "objectID": "assignments.html#quizzes",
-    "href": "assignments.html#quizzes",
-    "title": "Assignments for 431 in Fall 2024",
-    "section": "",
-    "text": "The general page for both 431 Quizzes is here. We’ll post links to each specific quiz page below as they become available.\n\nQuiz 1 page on Github\nQuiz 2 page on Github"
-  },
-  {
-    "objectID": "assignments.html#projects",
-    "href": "assignments.html#projects",
-    "title": "Assignments for 431 in Fall 2024",
-    "section": "",
-    "text": "The Project A page with all instructions and materials related to Project A is now available.\nThe Project B page will appear later this year."
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "431 Contact Us",
@@ -165,7 +193,7 @@
     "href": "contact.html#once-the-class-begins",
     "title": "431 Contact Us",
     "section": "Once The Class Begins",
-    "text": "Once The Class Begins\nIf you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. ASK FOR HELP. To get help in this course, you have three main options:\n\nUse our Campuswire discussion board to ask (and answer) questions about the course. This is available 24 hours a day, 7 days a week, starting after our first class. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Campuswise. Sign up for Campuswire at the link provided here (to be available in time for our first class.)\nAttend TA office hours to get one-on-one help or share a computer problem.\n\nTA office hours are held via Zoom, and will begin on Tuesday 2023-09-03 and will continue through Monday 2023-12-09. They will be held at the following times.\n\n\n\nSUN\nMON\nTUE\nWED - SAT\n\n\n\n\n5:00 PM - 6:30 PM\n11:45 AM - 12:45 PM\n11:45 AM - 12:45 PM\n\n\n\n7:00 PM - 8:30 PM\n5:30 PM - 7:00 PM\n5:30 PM - 7:00 PM\n\n\n\n8:30 PM - 10:00 PM\n7:30 PM - 9:00 PM\n7:30 PM - 9:00 PM\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nEssentially all deliverables for 431 are due at noon on Wednesdays, so that’s why we have our office hours scheduled as they are.\n\n\nBy the first day of TA hours, our Shared Google Drive (431 Fall 2024 Dr Love and Students) will contain Zoom links for each of these sessions in a document called TA office hours schedule and Zoom links. No appointment is necessary. Please just drop in.\n\nProfessor Love will also hold “drop-in hours” for 10 minutes before and for 30 minutes after each class on Tuesdays and Thursdays.\nOffice hours are canceled on 202410-21 and 2024-10-22 (Fall Break) and from 2024-11-23 through 2024-11-29 (Thanksgiving)\nMore information on each of the TAs this semester is found in this section of our Syllabus.\n\n\nEmail Professor Love at Thomas dot Love at case dot edu with any individual concerns related to the course that you do not feel comfortable asking elsewhere, or if you have any special concerns or needs that you want him to know about, or to set up an appointment with him for a Zoom meeting."
+    "text": "Once The Class Begins\nIf you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. ASK FOR HELP. To get help in this course, you have three main options:\n\nUse our Campuswire discussion board to ask (and answer) questions about the course. This is available 24 hours a day, 7 days a week, starting after our first class. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Campuswise. Sign up for Campuswire at the link provided here.\nAttend TA office hours to get one-on-one help or share a computer problem.\n\nTA office hours are held via Zoom, and will begin on Tuesday 2023-09-03 and will continue through Monday 2023-12-09. They will be held at the following times.\n\n\n\nSUN\nMON\nTUE\nWED - SAT\n\n\n\n\n5:00 PM - 6:30 PM\n11:45 AM - 12:45 PM\n11:45 AM - 12:45 PM\n\n\n\n7:00 PM - 8:30 PM\n5:30 PM - 7:00 PM\n5:30 PM - 7:00 PM\n\n\n\n8:30 PM - 10:00 PM\n7:30 PM - 9:00 PM\n7:30 PM - 9:00 PM\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nEssentially all deliverables for 431 are due at noon on Wednesdays, so that’s why we have our office hours scheduled as they are.\n\n\nBy the first day of TA hours, our Shared Google Drive (431 Fall 2024 Dr Love and Students) will contain Zoom links for each of these sessions in a document called TA office hours schedule and Zoom links. No appointment is necessary. Please just drop in.\n\nProfessor Love will also hold “drop-in hours” for 10 minutes before and for 30 minutes after each class on Tuesdays and Thursdays.\nOffice hours are canceled on 202410-21 and 2024-10-22 (Fall Break) and from 2024-11-23 through 2024-11-29 (Thanksgiving)\nMore information on each of the TAs this semester is found in this section of our Syllabus.\n\n\nEmail Professor Love at Thomas dot Love at case dot edu with any individual concerns related to the course that you do not feel comfortable asking elsewhere, or if you have any special concerns or needs that you want him to know about, or to set up an appointment with him for a Zoom meeting."
   },
   {
     "objectID": "ph.html",
