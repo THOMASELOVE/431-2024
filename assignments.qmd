@@ -2,14 +2,6 @@
 
 This page links to all instructions and other information about course assignments. All deadlines are found on the [Course Calendar](calendar.qmd).
 
-::: {.callout-important}
-
-## This page is mostly complete, but still under construction.
-
-We will post almost all class materials for 431 before the class begins on 2024-08-27. Most of what's here shouldn't change, but some things might. Missing things and dead links should be resolved over the next few days. If you have questions, contact Dr. Love at `Thomas dot Love at case dot edu`.
-
-:::
-
 ## Labs
 
 The general page for all [431 Labs is here](https://github.com/THOMASELOVE/431-labs-2024/blob/main/README.md). We'll post links to each specific lab page below as they become available.

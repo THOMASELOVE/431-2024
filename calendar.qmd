@@ -1,13 +1,5 @@
 # Course Calendar
 
-::: {.callout-important}
-
-## This page is mostly complete, but still under construction.
-
-We will post almost all class materials for 431 before the class begins on 2024-08-27. Most of what's here shouldn't change, but some things might. Missing things and dead links should be resolved over the next few days. If you have questions, contact Dr. Love at `Thomas dot Love at case dot edu`.
-
-:::
-
 All class sessions will be held from 1:00 to 2:15 PM in Room E321-323 on the third floor of the Robbins building at CWRU's School of Medicine.
 
 Readings come from:
@@ -98,6 +90,6 @@ Class | Day | Date | Additional Information
 
 :::{.callout-important}
 
-More details on deadlines related to Project B will be posted before class begins in late August.
+Project B presentations will be scheduled in November, and held between Friday 2024-12-06 and Wednesday 2024-12-11. You will be able to give that presentation either in person or over Zoom.
 
 :::
