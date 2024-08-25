@@ -1,4 +1,7 @@
-# Software for 431
+---
+title: "Software for 431"
+date: last-modified
+---
 
 The course makes heavy use of the R statistical programming language, and several related tools, most especially the RStudio development environment. Every bit of this software is free to use, and open-source.
 

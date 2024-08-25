@@ -1,4 +1,8 @@
-# Assignments for 431 in Fall 2024
+---
+title: "Assignments for 431 in Fall 2024"
+date: last-modified
+---
+
 
 This page links to all instructions and other information about course assignments. All deadlines are found on the [Course Calendar](calendar.qmd).
 

@@ -3,6 +3,7 @@ title: "Campuswire"
 date: last-modified
 ---
 
+
 ## Signing Up for Campuswire
 
 Visit <https://campuswire.com/p/G1B70B9D9> to sign up. When you do this, you'll need a four-digit class join code, which is **7781**.

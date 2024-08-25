@@ -1,4 +1,7 @@
-# Course Calendar
+---
+title: "Course Calendar"
+date: last-modified
+---
 
 All class sessions will be held from 1:00 to 2:15 PM in Room E321-323 on the third floor of the Robbins building at CWRU's School of Medicine.
 
