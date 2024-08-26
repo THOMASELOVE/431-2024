@@ -17,11 +17,13 @@ If you’ve spent 15 minutes working on something and are stuck, don’t keep wo
 
 TA office hours are held via Zoom, and will begin on **Tuesday 2023-09-03** and will continue through Monday 2023-12-09. They will be held at the following times. 
 
-SUN | MON | TUE | WED - SAT
-:------: | :------: | :------: | :------:  
-5:00 PM - 6:30 PM | 11:45 AM - 12:45 PM | 11:45 AM - 12:45 PM | 
+SUN | MON | TUE | THU | FRI
+:------: | :------: | :------: | :------: | :------:   
+5:00 PM - 6:30 PM | 11:45 AM - 12:45 PM | 11:45 AM - 12:45 PM | 7:30 PM - 9:00 PM | 12:30 PM - 2:00 PM
 7:00 PM - 8:30 PM | 5:30 PM - 7:00 PM | 5:30 PM - 7:00 PM | 
 8:30 PM - 10:00 PM | 7:30 PM - 9:00 PM | 7:30 PM - 9:00 PM | 
+
+We have no scheduled TA office hours on Wednesdays or Saturdays.
 
 ::: {.callout-note}
 Essentially all deliverables for 431 are due at noon on Wednesdays, so that's why we have our office hours scheduled as they are.
@@ -30,7 +32,7 @@ Essentially all deliverables for 431 are due at noon on Wednesdays, so that's wh
 *By the first day of TA hours*, our Shared Google Drive (431 Fall 2024 Dr Love and Students) will contain [Zoom](https://cwru.zoom.us/) links for each of these sessions in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
 
 - Professor Love will also hold “drop-in hours” for 10 minutes before and for 30 minutes after each class on Tuesdays and Thursdays.
-- Office hours are canceled on 202410-21 and 2024-10-22 (Fall Break) and from 2024-11-23 through 2024-11-29 (Thanksgiving)
+- Office hours are canceled on 2024-10-21 and 2024-10-22 (Fall Break) and from 2024-11-23 through 2024-11-29 (Thanksgiving)
 
 - More information on each of the TAs this semester is found in [this section of our Syllabus](https://thomaselove.github.io/431-syllabus-2024/08_teachingassistants.html).
 
