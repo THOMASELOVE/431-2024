@@ -19,6 +19,8 @@ Your first few steps in this course are to:
 5. You'll need to get R and RStudio on a computer you can control (including installing regular updates to the software) for the semester. You may want to get started on this process now - and installation details are found on our 431 [Software page](software.qmd). 
 6. I also suggest you get started reading the first few sections (particularly the Introduction and Sections 1-2) of the online book [R for Data Science, 2nd Edition](https://r4ds.hadley.nz/).
 7. Sign up for the [Campuswire discussion board at this link](campuswire.qmd).
+8. Please visit [this link](https://case.edu/registrar/general/sis-resources/record-your-name-pronunciation) for information on how to record a pronunciation of your full name in the Student Information System so that all of your instructors (and fellow students) will be able to hear it.
+9. Please log into Google via your CWRU account and ensure that you have access to a Shared Drive called **431 Fall 2024 Students and Dr. Love**.
 
 ## Everything will appear on this website
 

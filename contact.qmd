@@ -15,7 +15,9 @@ If you’ve spent 15 minutes working on something and are stuck, don’t keep wo
 
 2. Attend TA office hours to get one-on-one help or share a computer problem.
 
-TA office hours are held via Zoom, and will begin on **Tuesday 2023-09-03** and will continue through Monday 2023-12-09. They will be held at the following times. 
+TA office hours are held via Zoom, and will begin on **Tuesday 2023-09-03** and will continue through Monday 2023-12-09. *By 2024-09-03*, our Shared Google Drive (431 Fall 2024 Dr Love and Students) will display Zoom links for all TA office hours in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
+
+TA office hours will be held at the following times. 
 
 SUN | MON | TUE | THU | FRI
 :------: | :------: | :------: | :------: | :------:   
@@ -23,18 +25,15 @@ SUN | MON | TUE | THU | FRI
 7:00 PM - 8:30 PM | 5:30 PM - 7:00 PM | 5:30 PM - 7:00 PM | 
 8:30 PM - 10:00 PM | 7:30 PM - 9:00 PM | 7:30 PM - 9:00 PM | 
 
-We have no scheduled TA office hours on Wednesdays or Saturdays.
-
-::: {.callout-note}
-Essentially all deliverables for 431 are due at noon on Wednesdays, so that's why we have our office hours scheduled as they are.
-:::
-
-*By the first day of TA hours*, our Shared Google Drive (431 Fall 2024 Dr Love and Students) will contain [Zoom](https://cwru.zoom.us/) links for each of these sessions in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
-
 - Professor Love will also hold “drop-in hours” for 10 minutes before and for 30 minutes after each class on Tuesdays and Thursdays.
 - Office hours are canceled on 2024-10-21 and 2024-10-22 (Fall Break) and from 2024-11-23 through 2024-11-30 (Thanksgiving)
 
-- More information on each of the TAs this semester is found in [this section of our Syllabus](https://thomaselove.github.io/431-syllabus-2024/08_teachingassistants.html).
+::: {.callout-note}
+We have no scheduled TA office hours on Wednesdays or Saturdays.
 
+Essentially all deliverables for 431 are due at noon on Wednesdays, so that's why we have our office hours scheduled as they are.
+:::
+
+- More information on each of this semester's TAs is in [this section of our Syllabus](https://thomaselove.github.io/431-syllabus-2024/08_teachingassistants.html).
 
 3. Email Professor Love at `Thomas dot Love` at `case dot edu` with any individual concerns related to the course that you do not feel comfortable asking elsewhere, or if you have any special concerns or needs that you want him to know about, or to set up an appointment with him for a Zoom meeting.
