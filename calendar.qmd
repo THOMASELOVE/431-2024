@@ -9,6 +9,7 @@ Readings come from:
 
 - **Spiegelhalter**: David Spiegelhalter's [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541675703) originally published in 2020 and available at all major book retailers.
 - **R4DS**: R for Data Science (2nd edition), found at <https://r4ds.hadley.nz/>.
+- **TEL**: Dr. Love's [Course Book](https://thomaselove.github.io/431-book/)
 
 ## August
 
@@ -113,7 +114,7 @@ Visit the [Contact Us page](contact.qmd) for ways to get help in this class.
 
 ## TA Office Hours
 
-TA office hours are held via Zoom, and will begin on **Tuesday 2023-09-03** and will continue through Monday 2023-12-09. *By 2024-09-03*, our Shared Google Drive (431 Fall 2024 Dr Love and Students) will display Zoom links for all TA office hours in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
+TA office hours are held via Zoom, and will begin on **Tuesday 2023-09-03** and will continue through Monday 2023-12-09. Our Shared Google Drive (431 Fall 2024 Dr Love and Students) displays Zoom links for all TA office hours in a document called **TA office hours schedule and Zoom links**. [Or see that document (pdf) here](office_hours_2024.pdf). No appointment is necessary. Please just drop in.
 
 TA office hours will be held at the following times. 
 
