@@ -28,13 +28,13 @@ Class | Day | Date | Additional Information
 **deadline** | **W** | 2024-09-04 | [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 09-04 due at noon
 [Class 04](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class04) | TH | 2024-09-05 | Comparing Paired Samples (TEL 5)
 *reading* | -- | by Class 5 | Spiegelhalter: Chapters 2 and 3 <br /> R4DS:  remainder of "Whole game" (Sections 1-8) <br /> get going on [Project A](https://thomaselove.github.io/431-projectA-2024/) Data work
-5 | TU | 2024-09-10 | Comparing Independent Samples (TEL 6)
+[Class 05](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class05) | TU | 2024-09-10 | Comparing Independent Samples (TEL 6)
 **deadline** | **W** | 2024-09-11 | [Lab 1](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab1) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 09-11 due at noon
-6 | TH | 2024-09-12 | Transformation and Weighting (TEL 7-8)
+[Class 06](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class06) | TH | 2024-09-12 | Transformation and Weighting (TEL 7-8)
 *reading* | -- | by Class 7 | Spiegelhalter: Chapter 5 <br /> R4DS:  "Visualize" sections, especially sections 10 and 11 <br /> finish the [Project A](https://thomaselove.github.io/431-projectA-2024/) Data work and start the Plan. 
-7 | TU | 2024-09-17 | Comparing Multiple Groups (TEL 9)
+[Class 07](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class07) | TU | 2024-09-17 | Comparing Multiple Groups (TEL 9)
 **deadline** | **W** | 2024-09-18 | [Lab 2](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab2) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 09-18 due at noon
-8 | TH | 2024-09-19 | Extensions of One-Factor ANOVA (TEL 10)
+[Class 08](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class08) | TH | 2024-09-19 | Extensions of One-Factor ANOVA (TEL 10)
 *reading* | -- | by Class 9 | Spiegelhalter: Chapter 7 <br /> R4DS: Sections 16 (Factors) and 28 (Quarto) <br /> Complete the [Project A Plan](https://thomaselove.github.io/431-projectA-2024/): due Wednesday!
 9 | TU | 2024-09-24 | Association and Correlation (TEL 11-12)
 **deadline** | **W** | 2024-09-25 | [Project A Plan](https://thomaselove.github.io/431-projectA-2024/) due at noon 
