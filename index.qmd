@@ -33,6 +33,8 @@ Materials that will appear here include:
 -   information on [software](software.qmd), including installation instructions for R, RStudio, and the key R packages and data sets we'll use
 -   and information on how to [contact us](contact.qmd).
 
+## NEW! [Go here](software.qmd#getting-better-at-r-rstudio-and-quarto) for suggested R/RStudio/Quarto learning resources
+
 ## Class Starts Tuesday 2024-08-27 at 1 PM
 
 Class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-E323 at CWRU's School of Medicine, starting on 2024-08-27.

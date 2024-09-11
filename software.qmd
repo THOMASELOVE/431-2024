@@ -3,6 +3,8 @@ title: "Software for 431"
 date: last-modified
 ---
 
+## NEW! [Go here](#getting-better-at-r-rstudio-and-quarto) for suggested R/RStudio/Quarto learning resources
+
 The course makes heavy use of the R statistical programming language, and several related tools, most especially the RStudio development environment. Every bit of this software is free to use, and open-source.
 
 You will need access to a computer to do your work for this class, not just an iPad or other tablet, but an actual computer. You do not need a state of the art machine, nor should you need any special hardware to run things for this course.
@@ -48,4 +50,21 @@ Every once in a while, it’s a good idea to update your R packages. To do so,
     - Updating packages is something you’ll do occasionally throughout the semester, mostly when a problem happens.
 
 3. Finally, choose File ... Quit Session from the top menu, and accept or deny (I usually deny) RStudio’s request to save your workspace. Then close RStudio, and re-open it if you want to do some work.
+
+## Getting Better at R, RStudio and Quarto
+
+- R Studio Educational Resources at <https://education.rstudio.com/learn/>
+- Learn the tidyverse at <https://www.tidyverse.org/learn/>
+- easystats packages: <https://easystats.github.io/easystats/index.html> and then select the easystats package you’re interested in from the top right and select Articles or Reference.
+- janitor: <https://sfirke.github.io/janitor/index.html>
+- patchwork: <https://patchwork.data-imaginist.com/>
+- rstanarm: <https://mc-stan.org/rstanarm/>
+- MKinfer vignettes: <https://cran.r-project.org/web/packages/MKinfer/vignettes/MKinfer.html>
+
+### R/Quarto References Dr. Love uses, constantly
+
+- [R Graphics Cookbook, 2nd Edition](https://r-graphics.org/)
+- [R for Data Science, 2nd Edition](https://r4ds.hadley.nz/)
+- Quarto [main page](https://quarto.org/), especially [Get Started for R Studio](https://quarto.org/docs/get-started/hello/rstudio.html) and [Guide](https://quarto.org/docs/guide/https://quarto.org/docs/guide/)
+- R Colors ([pdf](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf))
 
