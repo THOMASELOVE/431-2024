@@ -61,6 +61,8 @@ Every once in a while, it’s a good idea to update your R packages. To do so,
 - rstanarm: <https://mc-stan.org/rstanarm/>
 - MKinfer vignettes: <https://cran.r-project.org/web/packages/MKinfer/vignettes/MKinfer.html>
 
+Also, see [Appendix A of Dr. Love's textbook](https://thomaselove.github.io/431-book/package_info.html).
+
 ### R/Quarto References Dr. Love uses, constantly
 
 - [R Graphics Cookbook, 2nd Edition](https://r-graphics.org/)
