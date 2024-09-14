@@ -1,0 +1,29 @@
+---
+title: "Supplemental Resources for 431"
+date: last-modified
+---
+
+## Getting Better at R, RStudio and Quarto
+
+- R Studio Educational Resources at <https://education.rstudio.com/learn/>
+- Learn the tidyverse at <https://www.tidyverse.org/learn/>
+  - The [tidyverse style guide](https://style.tidyverse.org/) including [styler](https://styler.r-lib.org/)
+- easystats packages: <https://easystats.github.io/easystats/index.html> and then select the easystats package you’re interested in from the top right and select Articles or Reference.
+- janitor: <https://sfirke.github.io/janitor/index.html>
+- patchwork: <https://patchwork.data-imaginist.com/>
+- rstanarm: <https://mc-stan.org/rstanarm/>
+- MKinfer vignettes: <https://cran.r-project.org/web/packages/MKinfer/vignettes/MKinfer.html>
+
+Also, see [Appendix A of Dr. Love's textbook](https://thomaselove.github.io/431-book/package_info.html).
+
+### Other R and Quarto references I recommend
+
+- [R Graphics Cookbook, 2nd Edition](https://r-graphics.org/)
+- [R for Data Science, 2nd Edition](https://r4ds.hadley.nz/)
+  - Sections on Workflow: [scripts and projects](https://r4ds.hadley.nz/workflow-scripts) and [getting help](https://r4ds.hadley.nz/workflow-help)
+- Posit's [Cheat Sheets](https://posit.co/resources/cheatsheets/)
+- Quarto [main page](https://quarto.org/), especially [Get Started for R Studio](https://quarto.org/docs/get-started/hello/rstudio.html) and [Guide](https://quarto.org/docs/guide/https://quarto.org/docs/guide/)
+  - Also worth looking at R for Data Science's chapters on [Quarto](https://r4ds.hadley.nz/quarto) and on [Quarto formatting](https://r4ds.hadley.nz/quarto-formats).
+- R Colors ([pdf](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf))
+- [Introduction to Regression Methods for Public Health Using R](https://bookdown.org/rwnahhas/RMPH/) by Ramzi W. Nahhas
+

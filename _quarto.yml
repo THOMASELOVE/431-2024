@@ -20,6 +20,8 @@ website:
         href: assignments.qmd
       - text: "Software"
         href: software.qmd
+      - text: "Resources"
+        href: resources.qmd
       - text: "Campuswire"
         href: campuswire.qmd
     right:

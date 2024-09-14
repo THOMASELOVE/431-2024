@@ -53,20 +53,4 @@ Every once in a while, it’s a good idea to update your R packages. To do so,
 
 ## Getting Better at R, RStudio and Quarto
 
-- R Studio Educational Resources at <https://education.rstudio.com/learn/>
-- Learn the tidyverse at <https://www.tidyverse.org/learn/>
-- easystats packages: <https://easystats.github.io/easystats/index.html> and then select the easystats package you’re interested in from the top right and select Articles or Reference.
-- janitor: <https://sfirke.github.io/janitor/index.html>
-- patchwork: <https://patchwork.data-imaginist.com/>
-- rstanarm: <https://mc-stan.org/rstanarm/>
-- MKinfer vignettes: <https://cran.r-project.org/web/packages/MKinfer/vignettes/MKinfer.html>
-
-Also, see [Appendix A of Dr. Love's textbook](https://thomaselove.github.io/431-book/package_info.html).
-
-### R/Quarto References Dr. Love uses, constantly
-
-- [R Graphics Cookbook, 2nd Edition](https://r-graphics.org/)
-- [R for Data Science, 2nd Edition](https://r4ds.hadley.nz/)
-- Quarto [main page](https://quarto.org/), especially [Get Started for R Studio](https://quarto.org/docs/get-started/hello/rstudio.html) and [Guide](https://quarto.org/docs/guide/https://quarto.org/docs/guide/)
-- R Colors ([pdf](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf))
-
+This material is now found on our [Resources page](resources.qmd)
