@@ -26,4 +26,6 @@ Also, see [Appendix A of Dr. Love's textbook](https://thomaselove.github.io/431-
   - Also worth looking at R for Data Science's chapters on [Quarto](https://r4ds.hadley.nz/quarto) and on [Quarto formatting](https://r4ds.hadley.nz/quarto-formats).
 - R Colors ([pdf](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf))
 - [Introduction to Regression Methods for Public Health Using R](https://bookdown.org/rwnahhas/RMPH/) by Ramzi W. Nahhas
+- Rebecca Barter's [An introduction to Python for R Users](https://rebeccabarter.com/blog/2023-09-11-from_r_to_python) has been helpful to some people making that transition, or the opposite one. The RStudio IDE is a free and open-source IDE for Python, as well as R. You can write scripts, import modules, and interactively [use Python within the RStudio IDE.](https://posit.co/blog/three-ways-to-program-in-python-with-rstudio/)
+
 
