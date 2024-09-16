@@ -38,7 +38,7 @@ Class | Day | Date | Additional Information
 *reading* | -- | by Class 9 | Spiegelhalter: Chapter 7 <br /> R4DS: Sections 16 (Factors) and 28 (Quarto) <br /> Complete the [Project A Plan](https://thomaselove.github.io/431-projectA-2024/): due Wednesday!
 [Class 09](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class09) | TU | 2024-09-24 | Association and Correlation (TEL 11-12)
 **deadline** | **W** | 2024-09-25 | [Project A Plan](https://thomaselove.github.io/431-projectA-2024/) due at noon 
-[Class 10](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class10) | TH | 2024-09-26 | On Weighting (TEL 8) and Catchup
+[Class 10](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class10) | TH | 2024-09-26 | Simple Linear Regression (TEL 11-12)
 
 ## October
 
@@ -93,7 +93,7 @@ Class | Day | Date | Additional Information
 *reading* | -- | by Class 25 | Spiegelhalter: rest of book (chapters 6 and 14)
 25 | TU | 2024-12-03 | Summary Case Study (also see TEL 23)
 **deadline** | **W** | 2024-12-04 | Quiz 2 due at noon <br> Lab 7 due at noon
-26 | TH | 2024-12-05 | What happened here? What's in 432?
+26 | TH | 2024-12-05 | Weighting (TEL 8) plus What happened here? What's in 432?
 -- | F | 2024-12-06 | Project B presentations: Day 1
 -- | M | 2024-12-09 | Last Day for TA office hours. <br /> Project B presentations: Day 2
 -- | TU | 2024-12-10 | Project B presentations: Day 3
