@@ -11,15 +11,6 @@ Readings come from:
 - **R4DS**: R for Data Science (2nd edition), found at <https://r4ds.hadley.nz/>.
 - **TEL**: Dr. Love's [Course Book](https://thomaselove.github.io/431-book/)
 
-## August
-
-Class | Day | Date | Additional Information
-:-----: | ---: | ---------- | ----------------------------
-[Class 01](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class01) | TU | 2024-08-27 | Getting Started (TEL 1-2)
-**deadline** | **W** | 2024-08-28 | [Lab 0: Welcome to 431 Survey](https://bit.ly/431-2024-welcome) due at noon
-[Class 02](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class02) | TH | 2024-08-29 | Data Visualization and Summary (TEL 2-3)
-*reading* | -- | by Class 3 | Spiegelhalter: Introduction and Chapter 1 <br /> R4DS: Introduction and as much of "Whole game" as possible <br /> skim through the [Project A](https://thomaselove.github.io/431-projectA-2024/) instructions
-
 ## September
 
 Class | Day | Date | Additional Information
@@ -98,7 +89,7 @@ Class | Day | Date | Additional Information
 -- | M | 2024-12-09 | Last Day for TA office hours. <br /> Project B presentations: Day 2
 -- | TU | 2024-12-10 | Project B presentations: Day 3
 -- | W | 2024-12-11 | Project B presentations: Day 4
-**deadline** | **W** | 2024-12-11 | Project B Portfolio submitted by noon. <br> (Optional) Lab Regrade Request Form due at noon.
+**deadline** | **W** | 2024-12-11 | Project B Portfolio submitted by noon. <br> (Optional) [Lab Regrade Request Form](https://bit.ly/431-2024-lab-regrade-request) due at noon.
 
 :::{.callout-important}
 
@@ -107,6 +98,16 @@ Project B presentations will be scheduled on 2024-11-15, and held over parts of 
 - You will be able to give your presentation either in person or over Zoom, and your total time commitment will be one hour on one of those four days.
 
 :::
+
+## August
+
+Class | Day | Date | Additional Information
+:-----: | ---: | ---------- | ----------------------------
+[Class 01](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class01) | TU | 2024-08-27 | Getting Started (TEL 1-2)
+**deadline** | **W** | 2024-08-28 | [Lab 0: Welcome to 431 Survey](https://bit.ly/431-2024-welcome) due at noon
+[Class 02](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class02) | TH | 2024-08-29 | Data Visualization and Summary (TEL 2-3)
+*reading* | -- | by Class 3 | Spiegelhalter: Introduction and Chapter 1 <br /> R4DS: Introduction and as much of "Whole game" as possible <br /> skim through the [Project A](https://thomaselove.github.io/431-projectA-2024/) instructions
+
 
 ## Getting Help
 

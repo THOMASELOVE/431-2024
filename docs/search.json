@@ -84,13 +84,6 @@
     "text": "All class sessions will be held from 1:00 to 2:15 PM in Room E321-323 on the third floor of the Robbins building at CWRU’s School of Medicine.\nReadings come from:"
   },
   {
-    "objectID": "calendar.html#august",
-    "href": "calendar.html#august",
-    "title": "Course Calendar",
-    "section": "August",
-    "text": "August\n\n\n\nClass\nDay\nDate\nAdditional Information\n\n\n\n\nClass 01\nTU\n2024-08-27\nGetting Started (TEL 1-2)\n\n\ndeadline\nW\n2024-08-28\nLab 0: Welcome to 431 Survey due at noon\n\n\nClass 02\nTH\n2024-08-29\nData Visualization and Summary (TEL 2-3)\n\n\nreading\n–\nby Class 3\nSpiegelhalter: Introduction and Chapter 1  R4DS: Introduction and as much of “Whole game” as possible  skim through the Project A instructions"
-  },
-  {
     "objectID": "calendar.html#september",
     "href": "calendar.html#september",
     "title": "Course Calendar",
@@ -116,7 +109,14 @@
     "href": "calendar.html#december",
     "title": "Course Calendar",
     "section": "December",
-    "text": "December\n\n\n\n\n\n\n\n\n\nClass\nDay\nDate\nAdditional Information\n\n\n\n\n–\nSU\n2024-12-01\nTA office hours resume.\n\n\nreading\n–\nby Class 25\nSpiegelhalter: rest of book (chapters 6 and 14)\n\n\n25\nTU\n2024-12-03\nSummary Case Study (also see TEL 23)\n\n\ndeadline\nW\n2024-12-04\nQuiz 2 due at noon  Lab 7 due at noon\n\n\n26\nTH\n2024-12-05\nWeighting (TEL 8) plus What happened here? What’s in 432?\n\n\n–\nF\n2024-12-06\nProject B presentations: Day 1\n\n\n–\nM\n2024-12-09\nLast Day for TA office hours.  Project B presentations: Day 2\n\n\n–\nTU\n2024-12-10\nProject B presentations: Day 3\n\n\n–\nW\n2024-12-11\nProject B presentations: Day 4\n\n\ndeadline\nW\n2024-12-11\nProject B Portfolio submitted by noon.  (Optional) Lab Regrade Request Form due at noon.\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nProject B presentations will be scheduled on 2024-11-15, and held over parts of four days between Friday 2024-12-06 and Wednesday 2024-12-11.\n\nYou will be able to give your presentation either in person or over Zoom, and your total time commitment will be one hour on one of those four days."
+    "text": "December\n\n\n\nClass\nDay\nDate\nAdditional Information\n\n\n\n\n–\nSU\n2024-12-01\nTA office hours resume.\n\n\nreading\n–\nby Class 25\nSpiegelhalter: rest of book (chapters 6 and 14)\n\n\n25\nTU\n2024-12-03\nSummary Case Study (also see TEL 23)\n\n\ndeadline\nW\n2024-12-04\nQuiz 2 due at noon  Lab 7 due at noon\n\n\n26\nTH\n2024-12-05\nWeighting (TEL 8) plus What happened here? What’s in 432?\n\n\n–\nF\n2024-12-06\nProject B presentations: Day 1\n\n\n–\nM\n2024-12-09\nLast Day for TA office hours.  Project B presentations: Day 2\n\n\n–\nTU\n2024-12-10\nProject B presentations: Day 3\n\n\n–\nW\n2024-12-11\nProject B presentations: Day 4\n\n\ndeadline\nW\n2024-12-11\nProject B Portfolio submitted by noon.  (Optional) Lab Regrade Request Form due at noon.\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nProject B presentations will be scheduled on 2024-11-15, and held over parts of four days between Friday 2024-12-06 and Wednesday 2024-12-11.\n\nYou will be able to give your presentation either in person or over Zoom, and your total time commitment will be one hour on one of those four days."
+  },
+  {
+    "objectID": "calendar.html#august",
+    "href": "calendar.html#august",
+    "title": "Course Calendar",
+    "section": "August",
+    "text": "August\n\n\n\nClass\nDay\nDate\nAdditional Information\n\n\n\n\nClass 01\nTU\n2024-08-27\nGetting Started (TEL 1-2)\n\n\ndeadline\nW\n2024-08-28\nLab 0: Welcome to 431 Survey due at noon\n\n\nClass 02\nTH\n2024-08-29\nData Visualization and Summary (TEL 2-3)\n\n\nreading\n–\nby Class 3\nSpiegelhalter: Introduction and Chapter 1  R4DS: Introduction and as much of “Whole game” as possible  skim through the Project A instructions"
   },
   {
     "objectID": "calendar.html#getting-help",
