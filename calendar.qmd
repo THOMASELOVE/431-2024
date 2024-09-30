@@ -17,7 +17,7 @@ Readings come from:
 Class | Day | Date | Additional Information
 -----: | ---: | ---------- | ----------------------------
 *reading* | -- | by Class 11 | Spiegelhalter: Chapter 8 
-[Class 11](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class11) | TU | 2024-10-01 | Two-by-Two Tables (TEL 13)
+[Class 11](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class11) | TU | 2024-10-01 | CIs for Proportions, Two-by-Two Tables (TEL 13)
 **deadline** | **W** | 2024-10-02 | [Lab 3](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab3) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 10-02 due at noon <br /> Revisions for Project A Plan (for *some groups*) due at noon
 [Class 12](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class12) | TH | 2024-10-03 | Larger Two-Way Cross-Classifications (TEL 14)
 *reading* | -- | by Class 13 | Spiegelhalter: Chapter 9 <br /> get started on [Project A](https://thomaselove.github.io/431-projectA-2024/) Analyses
