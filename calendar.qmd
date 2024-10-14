@@ -25,9 +25,9 @@ Class | Day | Date | Additional Information
 **deadline** | **W** | 2024-10-09 | [Lab 4](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab4) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 10-09 due at noon
 [Class 14](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class14) | TH | 2024-10-10 | What's wrong with Statistical Significance, 2 (TEL 15) <br> Quiz 1 out to students at 5 PM
 *reading* | -- | by Class 15 | Spiegelhalter: Chapter 10
-[Class 15](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class15) | TU | 2024-10-15 | Adjusting for a covariate (TEL 16)
+[Class 15](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class15) | TU | 2024-10-15 | Making Adjustments (TEL 16)
 **deadline** | **W** | 2024-10-16 | Quiz 1 due at noon 
-[Class 16](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class16) | TH | 2024-10-17 | Covariate Adjustment in Simpler Models (TEL 17)
+[Class 16](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class16) | TH | 2024-10-17 | Dealing with Missing Data (TEL 17)
 -- | M | 2024-10-21 | CWRU Fall Break - TA office hours canceled.
 -- | TU | 2024-10-22 | CWRU Fall Break - no 431 class, and TA office hours canceled.
 *reading* | -- | by Class 17 | Spiegelhalter: Chapter 11 <br /> complete most of the [Project A](https://thomaselove.github.io/431-projectA-2024/) Portfolio report
