@@ -25,17 +25,17 @@ Class | Day | Date | Additional Information
 **deadline** | **W** | 2024-10-09 | [Lab 4](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab4) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 10-09 due at noon
 [Class 14](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class14) | TH | 2024-10-10 | What's wrong with Statistical Significance, 2 (TEL 15) <br> Quiz 1 out to students at 5 PM
 *reading* | -- | by Class 15 | Spiegelhalter: Chapter 10
-15 | TU | 2024-10-15 | Adjusting for a covariate (TEL 16)
+[Class 15](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class15) | TU | 2024-10-15 | Adjusting for a covariate (TEL 16)
 **deadline** | **W** | 2024-10-16 | Quiz 1 due at noon 
-16 | TH | 2024-10-17 | Covariate Adjustment in Simpler Models (TEL 17)
+[Class 16](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class16) | TH | 2024-10-17 | Covariate Adjustment in Simpler Models (TEL 17)
 -- | M | 2024-10-21 | CWRU Fall Break - TA office hours canceled.
 -- | TU | 2024-10-22 | CWRU Fall Break - no 431 class, and TA office hours canceled.
 *reading* | -- | by Class 17 | Spiegelhalter: Chapter 11 <br /> complete most of the [Project A](https://thomaselove.github.io/431-projectA-2024/) Portfolio report
-17 | TH | 2024-10-24 | Ask Me Anything / [Project A](https://thomaselove.github.io/431-projectA-2024/) Help Session
+[Class 17](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class17) | TH | 2024-10-24 | Ask Me Anything / [Project A](https://thomaselove.github.io/431-projectA-2024/) Help Session over **Zoom**
 *reading* | -- | by Class 18 | Spiegelhalter: Chapter 12
-18 | TU | 2024-10-29 | Regression Using Two Quantities (TEL 18)
+[Class 18](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class18) | TU | 2024-10-29 | Regression Using Two Quantities (TEL 18)
 **deadline** | **W** | 2024-10-30 | [Project A](https://thomaselove.github.io/431-projectA-2024/) Portfolio due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 10-30 due at noon
-19 | TH | 2024-10-31 | Two-Factor Analysis of Variance (TEL 19)
+[Class 19](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class19) | TH | 2024-10-31 | Two-Factor Analysis of Variance (TEL 19)
 
 ## November
 
@@ -43,7 +43,7 @@ Class | Day | Date | Additional Information
 -----: | ---: | ---------- | ----------------------------
 -- | TU | 2024-11-05 | Election Day - no 431 class. <br /> (*TA office hours will be held.*)
 **deadline** | **W** | 2024-11-06 | [Lab 5](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab5) due at noon
-20 | TH | 2024-11-07 | Multiple Linear Regression, 1 (TEL 20)
+[Class 20](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class20) | TH | 2024-11-07 | Multiple Linear Regression, 1 (TEL 20)
 *reading* | -- | by Class 21 | Spiegelhalter: Chapter 13
 21 | TU | 2024-11-12 | Multiple Linear Regression, 2 (TEL 20-21)
 **deadline** | **W** | 2024-11-13 | Project B Plan due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 11-13 due at noon
