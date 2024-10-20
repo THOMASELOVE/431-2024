@@ -28,10 +28,10 @@ The general page for all [431 Labs is here](https://github.com/THOMASELOVE/431-l
 
 The general page for both [431 Quizzes is here](https://github.com/THOMASELOVE/431-quizzes-2024/blob/main/README.md). We'll post links to each specific quiz page below as they become available.
 
-- Quiz 1 page on Github
-- Quiz 2 page on Github
+- [Quiz 1 page on Github](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz1)
+- [Quiz 2 page on Github](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2)
 
 ## Projects
 
 - The [Project A page](https://thomaselove.github.io/431-projectA-2024/) with all instructions and materials related to Project A is now available.
-- The Project B page will appear later this year.
+- The [Project B page](https://thomaselove.github.io/431-projectB-2024/) is also posted.

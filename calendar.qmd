@@ -46,7 +46,7 @@ Class | Day | Date | Additional Information
 [Class 20](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class20) | TH | 2024-11-07 | Multiple Linear Regression, 1 (TEL 20)
 *reading* | -- | by Class 21 | Spiegelhalter: Chapter 13
 21 | TU | 2024-11-12 | Multiple Linear Regression, 2 (TEL 20-21)
-**deadline** | **W** | 2024-11-13 | Project B Plan due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 11-13 due at noon
+**deadline** | **W** | 2024-11-13 | [Project B](https://thomaselove.github.io/431-projectB-2024/) Plan due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 11-13 due at noon
 22 | TH | 2024-11-14 | Multiple Linear Regression, 3 (TEL 20-22)
 -- | F | 2024-11-15 | Schedule for Project B Presentations announced
 *reading* | -- | by Class 23 | Spiegelhalter: Chapter 4
@@ -66,15 +66,15 @@ Class | Day | Date | Additional Information
 25 | TU | 2024-12-03 | Summary Case Study (also see TEL 23)
 **deadline** | **W** | 2024-12-04 | Quiz 2 due at noon <br> Lab 7 due at noon
 26 | TH | 2024-12-05 | Weighting (TEL 8) plus What happened here? What's in 432?
--- | F | 2024-12-06 | Project B presentations: Day 1
--- | M | 2024-12-09 | Last Day for TA office hours. <br /> Project B presentations: Day 2
--- | TU | 2024-12-10 | Project B presentations: Day 3
--- | W | 2024-12-11 | Project B presentations: Day 4
-**deadline** | **W** | 2024-12-11 | Project B Portfolio submitted by noon. <br> (Optional) [Lab Regrade Request Form](https://bit.ly/431-2024-lab-regrade-request) due at noon.
+-- | F | 2024-12-06 | [Project B](https://thomaselove.github.io/431-projectB-2024/) presentations: Day 1
+-- | M | 2024-12-09 | Last Day for TA office hours. <br /> [Project B](https://thomaselove.github.io/431-projectB-2024/) presentations: Day 2
+-- | TU | 2024-12-10 | [Project B](https://thomaselove.github.io/431-projectB-2024/) presentations: Day 3
+-- | W | 2024-12-11 | [Project B](https://thomaselove.github.io/431-projectB-2024/) presentations: Day 4
+**deadline** | **W** | 2024-12-11 | [Project B](https://thomaselove.github.io/431-projectB-2024/) Portfolio submitted by noon. <br> (Optional) [Lab Regrade Request Form](https://bit.ly/431-2024-lab-regrade-request) due at noon.
 
 :::{.callout-important}
 
-Project B presentations will be scheduled on 2024-11-15, and held over parts of four days between Friday 2024-12-06 and Wednesday 2024-12-11. 
+[Project B](https://thomaselove.github.io/431-projectB-2024/) presentations will be scheduled on 2024-11-15, and held over parts of four days between Friday 2024-12-06 and Wednesday 2024-12-11. 
 
 - You will be able to give your presentation either in person or over Zoom, and your total time commitment will be one hour on one of those four days.
 
