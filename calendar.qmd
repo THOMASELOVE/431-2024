@@ -33,9 +33,9 @@ Class | Day | Date | Additional Information
 *reading* | -- | by Class 17 | Spiegelhalter: Chapter 11 <br /> complete most of the [Project A](https://thomaselove.github.io/431-projectA-2024/) Portfolio report
 [Class 17](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class17) | TH | 2024-10-24 | Ask Me Anything / [Project A](https://thomaselove.github.io/431-projectA-2024/) Help Session over **Zoom**
 *reading* | -- | by Class 18 | Spiegelhalter: Chapter 12
-[Class 18](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class18) | TU | 2024-10-29 | Regression Using Two Quantities (TEL 18)
+[Class 18](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class18) | TU | 2024-10-29 | Two-Factor Analysis of Variance (TEL 19)
 **deadline** | **W** | 2024-10-30 | [Project A](https://thomaselove.github.io/431-projectA-2024/) Portfolio due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 10-30 due at noon
-[Class 19](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class19) | TH | 2024-10-31 | Two-Factor Analysis of Variance (TEL 19)
+[Class 19](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class19) | TH | 2024-10-31 | Multiple Linear Regression, 1 (TEL 18)
 
 ## November
 
@@ -43,16 +43,16 @@ Class | Day | Date | Additional Information
 -----: | ---: | ---------- | ----------------------------
 -- | TU | 2024-11-05 | Election Day - no 431 class. <br /> (*TA office hours will be held.*)
 **deadline** | **W** | 2024-11-06 | [Lab 5](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab5) due at noon
-[Class 20](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class20) | TH | 2024-11-07 | Multiple Linear Regression, 1 (TEL 20)
+[Class 20](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class20) | TH | 2024-11-07 | Multiple Linear Regression, 2 (TEL 20)
 *reading* | -- | by Class 21 | Spiegelhalter: Chapter 13
-21 | TU | 2024-11-12 | Multiple Linear Regression, 2 (TEL 20-21)
+21 | TU | 2024-11-12 | Multiple Linear Regression, 3 (TEL 20-21)
 **deadline** | **W** | 2024-11-13 | [Project B](https://thomaselove.github.io/431-projectB-2024/) Registration Form due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 11-13 due at noon
-22 | TH | 2024-11-14 | Multiple Linear Regression, 3 (TEL 20-22)
+22 | TH | 2024-11-14 | Multiple Linear Regression, 4 (TEL 20-22)
 -- | F | 2024-11-15 | Schedule for Project B Presentations announced
 *reading* | -- | by Class 23 | Spiegelhalter: Chapter 4
-23 | TU | 2024-11-19 | Multiple Linear Regression, 4 (TEL 20-22)
+23 | TU | 2024-11-19 | Multiple Linear Regression, 5 (TEL 20-22)
 **deadline** | **W** | 2024-11-20 | [Lab 6](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab6) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 11-20 due at noon
-24 | TH | 2024-11-21 | Multiple Linear Regression, 5 (TEL 20-22) <br> Quiz 2 out to students at 5 PM
+24 | TH | 2024-11-21 | Ask Me Anything / [Project B](https://thomaselove.github.io/431-projectB-2024/) Session over **Zoom** <br> Quiz 2 out to students at 5 PM
 -- | SA | 2024-11-23 | TA office hours canceled 11-23 through 11-30
 -- | TU | 2024-11-26 | Thanksgiving Week - no 431 class.
 -- | TH | 2024-11-28 | CWRU Thanksgiving Break - no 431 class.
@@ -63,9 +63,9 @@ Class | Day | Date | Additional Information
 -----: | ---: | ---------- | ----------------------------
 -- | SU | 2024-12-01 | TA office hours resume.
 *reading* | -- | by Class 25 | Spiegelhalter: rest of book (chapters 6 and 14)
-25 | TU | 2024-12-03 | Summary Case Study (also see TEL 23)
+25 | TU | 2024-12-03 | Weighting (TEL 8) and other topics TBA
 **deadline** | **W** | 2024-12-04 | Quiz 2 due at noon <br> Lab 7 due at noon
-26 | TH | 2024-12-05 | Weighting (TEL 8) plus What happened here? What's in 432?
+26 | TH | 2024-12-05 | Final Class - what did we do here, and what comes next?
 -- | F | 2024-12-06 | [Project B](https://thomaselove.github.io/431-projectB-2024/) presentations: Day 1
 -- | M | 2024-12-09 | Last Day for TA office hours. <br /> [Project B](https://thomaselove.github.io/431-projectB-2024/) presentations: Day 2
 -- | TU | 2024-12-10 | [Project B](https://thomaselove.github.io/431-projectB-2024/) presentations: Day 3
