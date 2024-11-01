@@ -11,9 +11,6 @@ Readings come from:
 - **R4DS**: R for Data Science (2nd edition), found at <https://r4ds.hadley.nz/>.
 - **TEL**: Dr. Love's [Course Book](https://thomaselove.github.io/431-book/)
 
-
-
-
 ## November
 
 Class | Day | Date | Additional Information
@@ -22,14 +19,14 @@ Class | Day | Date | Additional Information
 **deadline** | **W** | 2024-11-06 | [Lab 5](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab5) due at noon
 [Class 20](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class20) | TH | 2024-11-07 | Multiple Linear Regression, 2 (TEL 20)
 *reading* | -- | by Class 21 | Spiegelhalter: Chapter 13
-21 | TU | 2024-11-12 | Multiple Linear Regression, 3 (TEL 20-21)
+[Class 21](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class21) | TU | 2024-11-12 | Multiple Linear Regression, 3 (TEL 20-21)
 **deadline** | **W** | 2024-11-13 | [Project B](https://thomaselove.github.io/431-projectB-2024/) Registration Form due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 11-13 due at noon
-22 | TH | 2024-11-14 | Multiple Linear Regression, 4 (TEL 20-22)
+[Class 22](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class22) | TH | 2024-11-14 | Multiple Linear Regression, 4 (TEL 20-22)
 -- | F | 2024-11-15 | Schedule for Project B Presentations announced
 *reading* | -- | by Class 23 | Spiegelhalter: Chapter 4
-23 | TU | 2024-11-19 | Multiple Linear Regression, 5 (TEL 20-22)
+[Class 23](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class23) | TU | 2024-11-19 | Multiple Linear Regression, 5 (TEL 20-22)
 **deadline** | **W** | 2024-11-20 | [Lab 6](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab6) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 11-20 due at noon
-24 | TH | 2024-11-21 | Ask Me Anything / [Project B](https://thomaselove.github.io/431-projectB-2024/) Session over **Zoom** <br> Quiz 2 out to students at 5 PM
+[Class 24](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class24) | TH | 2024-11-21 | Ask Me Anything / [Project B](https://thomaselove.github.io/431-projectB-2024/) Session over **Zoom** <br> Quiz 2 out to students at 5 PM
 -- | SA | 2024-11-23 | TA office hours canceled 11-23 through 11-30
 -- | TU | 2024-11-26 | Thanksgiving Week - no 431 class.
 -- | TH | 2024-11-28 | CWRU Thanksgiving Break - no 431 class.
@@ -40,9 +37,9 @@ Class | Day | Date | Additional Information
 -----: | ---: | ---------- | ----------------------------
 -- | SU | 2024-12-01 | TA office hours resume.
 *reading* | -- | by Class 25 | Spiegelhalter: rest of book (chapters 6 and 14)
-25 | TU | 2024-12-03 | Weighting (TEL 8) and other topics TBA
+[Class 25](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class25) | TU | 2024-12-03 | Weighting (TEL 8) and other topics TBA
 **deadline** | **W** | 2024-12-04 | Quiz 2 due at noon <br> Lab 7 due at noon
-26 | TH | 2024-12-05 | Final Class - what did we do here, and what comes next?
+[Class 26](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class26) | TH | 2024-12-05 | Final Class - what did we do here, and what comes next?
 -- | F | 2024-12-06 | [Project B](https://thomaselove.github.io/431-projectB-2024/) presentations: Day 1
 -- | M | 2024-12-09 | Last Day for TA office hours. <br /> [Project B](https://thomaselove.github.io/431-projectB-2024/) presentations: Day 2
 -- | TU | 2024-12-10 | [Project B](https://thomaselove.github.io/431-projectB-2024/) presentations: Day 3
@@ -51,9 +48,9 @@ Class | Day | Date | Additional Information
 
 :::{.callout-important}
 
-[Project B](https://thomaselove.github.io/431-projectB-2024/) presentations will be scheduled on 2024-11-15, and held over parts of four days between Friday 2024-12-06 and Wednesday 2024-12-11. 
+The [Project B](https://thomaselove.github.io/431-projectB-2024/) presentation schedule will be announced on 2024-11-15, and held over parts of four days between Friday 2024-12-06 and Wednesday 2024-12-11. 
 
-- You will be able to give your presentation either in person or over Zoom, and your total time commitment will be one hour on one of those four days.
+- You will be able to give your presentation either in person or over Zoom, and your total time commitment will be less than one hour on one of those four days.
 
 :::
 
