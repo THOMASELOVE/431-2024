@@ -24,35 +24,35 @@ Class | Day | Date | Additional Information
 [Class 22](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class22) | TH | 2024-11-14 | Multiple Linear Regression, 4 (TEL 20-22)
 -- | F | 2024-11-15 | Schedule for Project B Presentations announced
 *reading* | -- | by Class 23 | Spiegelhalter: Chapter 4
-[Class 23](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class23) | TU | 2024-11-19 | Multiple Linear Regression, 5 (TEL 20-22)
+[Class 23](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class23) | TU | 2024-11-19 | Multiple Linear Regression, 5
 **deadline** | **W** | 2024-11-20 | [Lab 6](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab6) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 11-20 due at noon
-[Class 24](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class24) | TH | 2024-11-21 | Ask Me Anything / [Project B](https://thomaselove.github.io/431-projectB-2024/) Session over **Zoom** <br> Quiz 2 out to students at 5 PM
+[Class 24](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class24) | TH | 2024-11-21 | Multiple Linear Regression, 6 <br> Quiz 2 out to students at 5 PM
 -- | SA | 2024-11-23 | TA office hours canceled 11-23 through 11-30
 -- | TU | 2024-11-26 | Thanksgiving Week - no 431 class.
 -- | TH | 2024-11-28 | CWRU Thanksgiving Break - no 431 class.
 
-## December
+## December 1-5
 
 Class | Day | Date | Additional Information
 -----: | ---: | ---------- | ----------------------------
 -- | SU | 2024-12-01 | TA office hours resume.
 *reading* | -- | by Class 25 | Spiegelhalter: rest of book (chapters 6 and 14)
-[Class 25](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class25) | TU | 2024-12-03 | Weighting (TEL 8) and other topics TBA
+[Class 25](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class25) | TU | 2024-12-03 | Ask Me Anything / [Project B](https://thomaselove.github.io/431-projectB-2024/) Session over **Zoom** 
 **deadline** | **W** | 2024-12-04 | Quiz 2 due at noon <br> Lab 7 due at noon
 [Class 26](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class26) | TH | 2024-12-05 | Final Class - what did we do here, and what comes next?
--- | F | 2024-12-06 | [Project B](https://thomaselove.github.io/431-projectB-2024/) presentations: Day 1
--- | M | 2024-12-09 | Last Day for TA office hours. <br /> [Project B](https://thomaselove.github.io/431-projectB-2024/) presentations: Day 2
--- | TU | 2024-12-10 | [Project B](https://thomaselove.github.io/431-projectB-2024/) presentations: Day 3
--- | W | 2024-12-11 | [Project B](https://thomaselove.github.io/431-projectB-2024/) presentations: Day 4
-**deadline** | **W** | 2024-12-11 | [Project B](https://thomaselove.github.io/431-projectB-2024/) Portfolio submitted by noon. <br> (Optional) [Lab Regrade Request Form](https://bit.ly/431-2024-lab-regrade-request) due at noon.
 
-:::{.callout-important}
+## December 6-11
 
-The [Project B](https://thomaselove.github.io/431-projectB-2024/) presentation schedule will be announced on 2024-11-15, and held over parts of four days between Friday 2024-12-06 and Wednesday 2024-12-11. 
+Day | Date | Additional Information
+---: | ---------- | ----------------------------
+F | 2024-12-06 | [Project B Presentations](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md)
+M | 2024-12-09 | Last Day for TA office hours. <br /> [Project B Presentations](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md)
+TU | 2024-12-10 | [Project B Presentations](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md)
+W | 2024-12-11 | [Project B Presentations](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md)
+**W** | 2024-12-11 | **Deadline is NOON** <br /> [Project B](https://thomaselove.github.io/431-projectB-2024/) Portfolio submitted to Canvas <br> (Optional) [Lab Regrade Request Form](https://bit.ly/431-2024-lab-regrade-request) submitted.
 
-- You will be able to give your presentation either in person or over Zoom, and your total time commitment will be less than one hour on one of those four days.
+----
 
-:::
 
 ## August
 
