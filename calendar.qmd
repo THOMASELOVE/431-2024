@@ -11,25 +11,6 @@ Readings come from:
 - **R4DS**: R for Data Science (2nd edition), found at <https://r4ds.hadley.nz/>.
 - **TEL**: Dr. Love's [Course Book](https://thomaselove.github.io/431-book/)
 
-## November
-
-Class | Day | Date | Additional Information
------: | ---: | ---------- | ----------------------------
--- | TU | 2024-11-05 | Election Day - no 431 class. <br /> (*TA office hours will be held.*)
-**deadline** | **W** | 2024-11-06 | [Lab 5](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab5) due at noon
-[Class 20](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class20) | TH | 2024-11-07 | Multiple Linear Regression, 2 (TEL 20)
-*reading* | -- | by Class 21 | Spiegelhalter: Chapter 13
-[Class 21](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class21) | TU | 2024-11-12 | Multiple Linear Regression, 3 (TEL 20-21)
-**deadline** | **W** | 2024-11-13 | [Project B](https://thomaselove.github.io/431-projectB-2024/) Registration Form due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 11-13 due at noon
-[Class 22](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class22) | TH | 2024-11-14 | Multiple Linear Regression, 4 (TEL 20-22)
--- | F | 2024-11-15 | Schedule for Project B Presentations announced
-*reading* | -- | by Class 23 | Spiegelhalter: Chapter 4
-[Class 23](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class23) | TU | 2024-11-19 | Multiple Linear Regression, 5
-**deadline** | **W** | 2024-11-20 | [Lab 6](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab6) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 11-20 due at noon
-[Class 24](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class24) | TH | 2024-11-21 | Multiple Linear Regression, 6 <br> [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2) out to students at 5 PM
--- | SA | 2024-11-23 | TA office hours canceled 11-23 through 11-30
--- | TU | 2024-11-26 | Thanksgiving Week - no 431 class.
--- | TH | 2024-11-28 | CWRU Thanksgiving Break - no 431 class.
 
 ## December 1-5
 
@@ -39,7 +20,7 @@ Class | Day | Date | Additional Information
 *reading* | -- | by Class 25 | Spiegelhalter: rest of book (chapters 6 and 14)
 [Class 25](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class25) | TU | 2024-12-03 | Ask Me Anything / [Project B](https://thomaselove.github.io/431-projectB-2024/) Session over **Zoom** 
 **deadline** | **W** | 2024-12-04 | [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2) due at noon <br> Lab 7 due at noon
-[Class 26](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class26) | TH | 2024-12-05 | Final Class - what did we do here, and what comes next?
+[Class 26](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class26) | TH | 2024-12-05 | Final Class over **Zoom** 
 
 ## December 6-11
 
@@ -107,6 +88,27 @@ Class | Day | Date | Additional Information
 [Class 18](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class18) | TU | 2024-10-29 | Two-Factor Analysis of Variance (TEL 19)
 **deadline** | **W** | 2024-10-30 | [Project A](https://thomaselove.github.io/431-projectA-2024/) Portfolio due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 10-30 due at noon
 [Class 19](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class19) | TH | 2024-10-31 | Multiple Linear Regression, 1 (TEL 18)
+
+## November
+
+Class | Day | Date | Additional Information
+-----: | ---: | ---------- | ----------------------------
+-- | TU | 2024-11-05 | Election Day - no 431 class. <br /> (*TA office hours will be held.*)
+**deadline** | **W** | 2024-11-06 | [Lab 5](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab5) due at noon
+[Class 20](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class20) | TH | 2024-11-07 | Multiple Linear Regression, 2 (TEL 20)
+*reading* | -- | by Class 21 | Spiegelhalter: Chapter 13
+[Class 21](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class21) | TU | 2024-11-12 | Multiple Linear Regression, 3 (TEL 20-21)
+**deadline** | **W** | 2024-11-13 | [Project B](https://thomaselove.github.io/431-projectB-2024/) Registration Form due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 11-13 due at noon
+[Class 22](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class22) | TH | 2024-11-14 | Multiple Linear Regression, 4 (TEL 20-22)
+-- | F | 2024-11-15 | Schedule for Project B Presentations announced
+*reading* | -- | by Class 23 | Spiegelhalter: Chapter 4
+[Class 23](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class23) | TU | 2024-11-19 | Multiple Linear Regression, 5
+**deadline** | **W** | 2024-11-20 | [Lab 6](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab6) due at noon <br> [Minute Paper](https://github.com/THOMASELOVE/431-minute-2024/blob/main/README.md) 11-20 due at noon
+[Class 24](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class24) | TH | 2024-11-21 | Multiple Linear Regression, 6 <br> [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2) out to students at 5 PM
+-- | SA | 2024-11-23 | TA office hours canceled 11-23 through 11-30
+-- | TU | 2024-11-26 | Thanksgiving Week - no 431 class.
+-- | TH | 2024-11-28 | CWRU Thanksgiving Break - no 431 class.
+
 
 ## Getting Help
 
