@@ -19,7 +19,7 @@ Class | Day | Date | Additional Information
 -- | SU | 2024-12-01 | TA office hours resume.
 *reading* | -- | by Class 25 | Spiegelhalter: rest of book (chapters 6 and 14)
 [Class 25](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class25) | TU | 2024-12-03 | Ask Me Anything / [Project B](https://thomaselove.github.io/431-projectB-2024/) Session over **Zoom** 
-**deadline** | **W** | 2024-12-04 | [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2) due at noon <br> Lab 7 due at noon
+**deadline** | **W** | 2024-12-04 | [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2) due at noon <br> [Lab 7](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7) due at noon
 [Class 26](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class26) | TH | 2024-12-05 | Final Class over **Zoom** 
 
 ## December 6-11
